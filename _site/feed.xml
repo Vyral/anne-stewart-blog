@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quinn Stewart Real Estate Group</title>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Quinn Stewart Real Estate Group - your professional Portland Real Estate Agents.</description>
+    <link>localhost:4000/</link>
+    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 02 Nov 2016 11:36:37 -0500</pubDate>
+    <lastBuildDate>Wed, 02 Nov 2016 11:36:37 -0500</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>What Is the Current State of the Portland Market?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ReLFn5XZMaE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I get asked all the time how the Portland market is doing, so I figured I should give you an update on what I’m seeing in our real estate market right now.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We’re coming off two to three years of really solid appreciation.&lt;/strong&gt; Sellers have been able to sell their homes quickly and sell them for a high price. Earlier in 2016, we had as little as 1.3 months of inventory. That figure has risen slightly to 1.9 months, but that still keeps us in a strong seller’s market. For reference, a “balanced” market has an inventory of around six months.&lt;/p&gt;
+
+&lt;p&gt;We are seeing a little bit of an uptick in inventory due to a seasonal shift as well as the presidential election. Typically, the market slows down just a tad during this time of year. However, if you are out there thinking about selling your home but you’re nervous about the recent changes, don’t be.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=1.9 months of inventory is still extremely low.%20localhost:4000/what-is-the-current-state-of-the-portland-market.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“1.9 months of inventory is still extremely low.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Our interest rates continue to remain low, which is keeping buyers in the market.&lt;/strong&gt; Also, 1.9 months of inventory is an extremely low number, and doesn’t leave a lot of options for those buyers with strong buying power. Low inventory and low interest rates are the perfect recipe for a seller to sell their home quickly and for top dollar and for a buyer to get a great deal on a long-term mortgage.&lt;/p&gt;
+
+&lt;p&gt;If you are thinking about buying or selling a home in Portland, give me a call or send me an email. I would love to help you in any way I can.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 31 Oct 2016 00:00:00 -0500</pubDate>
+        <link>localhost:4000/what-is-the-current-state-of-the-portland-market.html</link>
+        <guid isPermaLink="true">localhost:4000/what-is-the-current-state-of-the-portland-market.html</guid>
+        
+        <category>Market Update</category>
+        
+        <category>Real Estate</category>
+        
+        <category>Buyer Tips</category>
+        
+        <category>Home Seller Tips</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
