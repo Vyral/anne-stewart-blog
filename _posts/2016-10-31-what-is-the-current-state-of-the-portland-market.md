@@ -6,14 +6,14 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: People always ask me about the state of our housing market. Portland is still a great place to be if you’re a buyer or a seller.
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Anne+Stewart/Videos+Oct-Dec+2016/Portland+Market+Update.mp4'
 pullquote: 1.9 months of inventory is still extremely low.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ReLFn5XZMaE
+youtube_code: GSiSXESEnMM
 ---
 
 
