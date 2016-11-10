@@ -19,7 +19,7 @@ youtube_code: GSiSXESEnMM
 
 {% include youtube.html %}
 
-I get asked all the time how the Portland market is doing, so I figured I should give you an update on what I’m seeing in our real estate market right now.
+I get asked all the time how the Portland market is doing, so I wanted to give you an update on what I’m seeing in our real estate market right now.
 
 **We’re coming off two to three years of really solid appreciation.** Sellers have been able to sell their homes quickly and sell them for a high price. Earlier in 2016, we had as little as 1.3 months of inventory. That figure has risen slightly to 1.9 months, but that still keeps us in a strong seller’s market. For reference, a “balanced” market has an inventory of around six months.
 
