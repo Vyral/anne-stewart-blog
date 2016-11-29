@@ -7,7 +7,7 @@ tags:
   - Home Seller Tips
 excerpt: 'As a professional Realtor, I do not use Zillow for any real estate information. Most of the time, it’s outdated and inaccurate.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Anne+Stewart/Videos+Oct-Dec+2016/Should+You+Trust+Zillow%253F.mp4'
-pullquote: 'Andross, the Final Boss'
+pullquote: I do not use Zillow at all for information on homes.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
