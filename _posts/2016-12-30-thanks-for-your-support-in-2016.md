@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 16wyP9JrM
+youtube_code: '-16wyP9JrM'
 ---
 
 
@@ -26,5 +26,4 @@ We just wanted to stop by quickly and wish you a happy New Year. Thank you so mu
 If you or anyone you know is thinking about making a move in 2017, give us a call or send us an email. We would love to help. We look forward to hearing from you soon. Happy New Year!
 {: .present-before-paste}
 
-&nbsp;
 {: .present-before-paste}
