@@ -5,12 +5,12 @@ tags:
   - Happy New Year
 excerpt: We had a great year. Thank you for making it possible.
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Anne+Stewart/Videos/Videos+Oct-Dec+2016/Thanks+for+Your+Support+in+2016+-+Oregon+Real+Estate+Agent.mp4'
-pullquote: 'Andross, the Final Boss'
+pullquote: 'We were able to help 126 buyers and sellers this year!'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 16wyP9JrM
+youtube_code: '-16wyP9JrM'
 ---
 
 
