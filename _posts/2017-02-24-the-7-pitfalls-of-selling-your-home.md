@@ -26,12 +26,12 @@ When it comes to selling your home, there are seven pitfalls that you must avoid
 
 **Putting your trust in Zillow.** Depending on how you look at it, Zillow can be your best friend or your worst enemy. It’s one of the biggest real estate websites people turn to for information, but there’s so much it doesn’t take into consideration in the sale of a property.&nbsp;
 
+{% include pullquote.html %}
+
 **Staying for the showings.** I know it’s tempting to want to stay for a showing to show people all the wonderful things about your property or keep a close eye on any visitors, but your presence can make buyers very uncomfortable. They want to see the house through their own eyes. When our team sells houses, we want the sellers gone for that very reason.
 
 **Refusing to negotiate on any offers.** It’s not where you start—it’s where you end. Look at each offer holistically before deciding what makes the most sense for you.&nbsp;
 
 **Not preparing your home for showings.** This can be a simple cleaning or organizing run-through. I usually evaluate with my clients what their resources look like, what their time frame is, and how their energy level feels before formulating a plan that makes sense in preparing their home. Besides a basic cleaning, you should also declutter and make any simple repairs that need to be made. It can make a huge difference&nbsp;
-
-{% include pullquote.html %}
 
 If you have any questions about this topic or you’re thinking about selling your house, don’t hesitate to reach out to us. We would love to help you get maximum dollar in this market!
