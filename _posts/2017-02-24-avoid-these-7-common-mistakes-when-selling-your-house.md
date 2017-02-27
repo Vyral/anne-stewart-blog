@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 7 Pitfalls of Selling Your Home
+title: Avoid These 7 Common Mistakes When Selling Your House
 tags:
   - Home Seller Tips
 excerpt: 'If you’re selling your home, here are seven large mistakes that you need to avoid.'
