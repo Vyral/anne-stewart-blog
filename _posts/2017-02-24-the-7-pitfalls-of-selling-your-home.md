@@ -30,7 +30,7 @@ When it comes to selling your home, there are seven pitfalls that you must avoid
 
 6. **Refusing to negotiate on any offers.** It’s not where you start—it’s where you end. Look at each offer holistically before deciding what makes the most sense for you.&nbsp;
 
-7. **Not preparing your home for showings.** This can be a simple cleaning or organizing run-through. I usually evaluate with my clients what their resources look like, what their time frame is, and how their energy level feels before formulating a plan that makes sense in preparing their home. Besides a basic cleaning, you should also declutter and make any simple repairs that need to be made. It can make a huge difference&nbsp;
+7. Not preparing your home for showings. This can be a simple cleaning or organizing run-through. I usually evaluate with my clients what their resources look like, what their time frame is, and how their energy level feels before formulating a plan that makes sense in preparing their home. Besides a basic cleaning, you should also declutter and make any simple repairs that need to be made. It can make a huge difference&nbsp;
 
 If you have any questions about this topic or you’re thinking about selling your house, don’t hesitate to reach out to us. We would to help you get maximum dollar in this market!
 
