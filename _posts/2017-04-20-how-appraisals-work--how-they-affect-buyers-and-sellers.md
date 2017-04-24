@@ -18,11 +18,11 @@ youtube_code: 8JnRIx7wotE
 
 Today’s topic is all about appraisals. To start off, what is an appraisal?
 
-In a real estate transaction, whether you’re buying or selling a house, an appraisal is needed if there is bank financing involved. The bank has to validate the price that is agreed upon between the buyer and the seller.&nbsp;
+In a real estate transaction, whether you’re buying or selling a house, **an appraisal is needed if there is bank financing involved**. The bank has to validate the price that is agreed upon between the buyer and the seller.&nbsp;
 
 To complete an appraisal, a designated appraiser goes out to the house, takes its measurements, photographs it, assesses its condition, and writes up a report that goes to the bank that relays their opinion of the home’s condition and their evaluation of its price.&nbsp;
 
-An appraisal is what we call a ‘could it be true’ value. If the agreed-upon sales price is $450,000 between the buyer and the seller, the appraiser’s job is to make sure they can find substantial comparable properties that affirm the property in question is worth $450,000. To determine this, they’re required to pull three active properties and three sold properties as their criteria.&nbsp;
+An appraisal is what we call a ‘could it be true’ value. If the agreed-upon sales price is $450,000 between the buyer and the seller, the appraiser’s job is to make sure they can find substantial comparable properties that affirm the property in question is worth $450,000. To determine this, **they’re required to pull three active properties and three sold properties as their criteria.**
 
 In the active category, they prefer to use properties within a one-mile radius of the home and properties that are similar in terms of size, square footage, bedrooms, and bathrooms. There can be some wiggle room if they can’t find an exact comparable property, but they try to get as close of a comparable as they can.&nbsp;
 
@@ -34,7 +34,7 @@ The farther back they go in time, the more obligated they are to do a time-valua
 
 Appraisers are also allowed to go outside the one-mile radius if they’re not able to find comparables that can substantiate the pending property, but they have to dictate to the bank what they did in terms of valuing the neighborhoods they had to pull from. There is a lot of give and take involved in this process; it’s more of an algorithmic way to substantiate value.&nbsp;
 
-Whenever people ask what their appraisal value came in at, they’re always surprised when they hear that it came in at the agreed-upon value. This is because appraisers are not required to show a higher value even if they think it’s worth more. Their No. 1 goal is to verify that the home is worth what the buyer and seller agreed to.&nbsp;
+Whenever people ask what their appraisal value came in at, they’re always surprised when they hear that it came in at the agreed-upon value. This is because appraisers are not required to show a higher value even if they think it’s worth more. **Their No. 1 goal is to verify that the home is worth what the buyer and seller agreed to.**&nbsp;
 
 If the appraisal comes in low, that can be somewhat problematic because the buyer and the seller have to agree what the value of the property will be all over again. They have a couple options in which to proceed—they can either agree on a new price and terms or the buyer can back out.&nbsp;
 
