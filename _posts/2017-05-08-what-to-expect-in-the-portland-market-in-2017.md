@@ -32,9 +32,8 @@ We're also an interest rate-driven market. Many don't realize that if rates went
 
 Portland is a unique market that’s unlike the rest of the country, and we were the No. 1 city for people to move to the last couple years. I believe we had just under 100,000 people move here last year from all over and I think this will continue as well.
 
-Finally, one big factor to keep in mind is the gap between income and home prices. Right now, they say the average household income is $68,000 and the average home for a first-time buyer is priced $400,000 or higher. **The larger that gap gets, we'll have to get a little nervous because of how it could change the market.**
+Finally, one big factor to keep in mind is the gap between income and home prices. Right now, they say the average household income is $68,000 and the average home for a first-time buyer is priced $400,000 or higher. **If that gap gets larger, we'll have to get a little nervous because of how it could change the market.**
 
 When we don't have the incomes to support housing, we have a conundrum. The only thing that can start to put pressure on that would be the market going backward, which will be especially true if interest rates go up.
 
 I don't have a crystal ball and I don't know what exactly will happen, so I'm keeping my eye on things as always. If you have any thoughts or questions or you're looking to buy or sell a home here in Portland, don't hesitate to give me a call or send me an email soon. I'd love to hear from you!
-<br>
