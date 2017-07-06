@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Rising Popularity of One Level Homes
+title: The Rising Popularity of One-Level Homes
 tags:
   - Real Estate
 excerpt: Why are one-level and master on the main properties so popular in Portland? I’ve got your answer in today’s video.
@@ -16,11 +16,11 @@ youtube_code: GCBvy413ZX0
 
 {% include youtube.html %}
 
-Today I’m talking about one-level properties and “master on the main” properties. In the last several years and especially the last 18 months, I have noticed this trend where buyers are coming to us and asking specifically for these types of properties.&nbsp;
+Today I’m talking about one-level properties and “master-on-the-main” properties. In the last several years and especially the last 18 months, I have noticed this trend where buyers are coming to us and asking specifically for these types of properties.&nbsp;
 
 **Why is this so significant?** What we’re finding is that there are a huge number of people that are retiring, downsizing, or dealing with health problems which require living in a one-level house who are requesting these properties.&nbsp;
 
-What we’re finding is that these property types are so popular that we are seeing one level properties being sold for more money than similar homes that have two levels. According to the statistics, there are 10,000 people who retire every day. Of this group of people, a lot of them are looking to downsize their large homes and move into a smaller space with fewer stairs.&nbsp;
+These property types are so popular that we are seeing one-level properties being sold for more money than similar homes that have two levels. According to the statistics, 10,000 people retire every day. Of this group of people, a lot of them are looking to downsize their large homes and move into a smaller space with fewer stairs.&nbsp;
 
 Because we have so few one-level homes in the Portland metro area, the next best option for these buyers is a master on the main home, which features the master bedroom on the main floor of the property. We are also seeing these properties sell quicker and for more money. Recently, **I had a client who bought a three-level property because it had a master on the main and they really needed that bedroom on the first floor.&nbsp;**
 
