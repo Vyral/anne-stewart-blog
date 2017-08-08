@@ -3,8 +3,11 @@ layout: post
 title: Where Do You Think the Real Estate Market Is Headed?
 tags:
   - Market Update
-excerpt: 'I have my own opinions about where the market is headed, but I want to hear from you. What do you think?'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Anne+Stewart/Videos/2017/Where+Do+You+Think+the+Real+Estate+Market+Is+Headed%253F+-+Oregon+Real+Estate+Agent.mp4'
+excerpt: >-
+  I have my own opinions about where the market is headed, but I want to hear
+  from you. What do you think?
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Anne+Stewart/Videos/2017/Where+Do+You+Think+the+Real+Estate+Market+Is+Headed%253F+-+Oregon+Real+Estate+Agent.mp4
 pullquote: We want to know what you think.
 enclosure_type: video/mp4
 enclosure_time:
@@ -22,9 +25,11 @@ There’s a lot of discussion about where the market is going. I can give you al
 
 {% include pullquote.html %}
 
-**I want to hear from you.&nbsp;**There is a form down below [LINK IT] and it takes you to a series of questions. I want to know what you think. Do you think it will continue to rise? Do you think it will level out, or drop? What do you think the stock market will do? What do you think the real estate market will do?
+**I want to hear from you.&nbsp;**There is a form down below and it takes you to a series of questions. I want to know what you think. Do you think it will continue to rise? Do you think it will level out, or drop? What do you think the stock market will do? What do you think the real estate market will do?
 
 If you fill out the form below, I’m going to share it on my next video. I have my opinions about the market, but maybe you’re a business owner or you’ve been studying the market on your own have your own opinions about where it’s headed. We want to know what you think.
+
+**[Click here to fill out the market survey](https://goo.gl/forms/RcKyNtW5gDpCHXnH3).**
 
 If you have any other questions or you’re looking to buy or sell a home, please give me a call or shoot me an email. I’d be happy to help!
 <br>&nbsp;
