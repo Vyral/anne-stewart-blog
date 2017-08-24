@@ -19,11 +19,11 @@ youtube_code: fvQrlORTk7U
 
 {% include youtube.html %}
 
-Recently I sat down with Erica ???? and Andy Varsack? [Names at :09] of Envoy Lending to give you a behind-the-scenes look at one of our success stories.&nbsp;
+Recently I sat down with Erika Hagfors and Andy Varcak of Envoy Lending to give you a behind-the-scenes look at one of our success stories.&nbsp;
 
-Erica recently represented one of our buyers who was adamant about going with their own out-of-state lender. We’d never heard of this lender, and on a Friday when we were just four days from closing we received an email from this lender saying they wouldn’t be able to finish the loan.
+Erika recently represented one of our buyers who was adamant about going with their own out-of-state lender. We’d never heard of this lender, and on a Friday when we were just four days from closing we received an email from this lender saying they wouldn’t be able to finish the loan.
 
-When buyers and sellers are all packed and ready to move, this kind of situation is an absolute disaster. **The lender offered no solution or explanation, and Erica’s buyer was totally heartbroken.&nbsp;**
+When buyers and sellers are all packed and ready to move, this kind of situation is an absolute disaster. **The lender offered no solution or explanation, and Erika’s buyer was totally heartbroken.&nbsp;**
 
 {% include pullquote.html %}
 
