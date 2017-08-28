@@ -19,7 +19,7 @@ youtube_code: SD3dRUP4e2A
 
 {% include youtube.html %}
 
-Recently I sat down with Erika Hagfors and Andy Varcak of Envoy Lending to give you a behind-the-scenes look at one of our success stories.&nbsp;
+Recently I sat down with Erika Hagfors and Andy Varcak of [**Envoy Lending**](https://avarcak-envoy.mortgagewebcenter.com/) to give you a behind-the-scenes look at one of our success stories.&nbsp;
 
 Erika recently represented one of our buyers who was adamant about going with their own out-of-state lender. We’d never heard of this lender, and on a Friday when we were just four days from closing we received an email from this lender saying they wouldn’t be able to finish the loan.
 
