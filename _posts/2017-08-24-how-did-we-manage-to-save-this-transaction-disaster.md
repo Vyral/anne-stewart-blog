@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: fvQrlORTk7U
+youtube_code: SD3dRUP4e2A
 ---
 
 
@@ -29,7 +29,7 @@ When buyers and sellers are all packed and ready to move, this kind of situation
 
 Thankfully, that’s where Andy, one of our preferred lender partners, came in. Andy and his processor worked with the borrower over the weekend to come up with a clean package for underwriting.&nbsp;
 
-Within one week they emailed the documents to Escrow, and the transaction was rescued. **Not only did things close on time, Andy also negotiated better terms for the buyer.**
+Within one week they emailed the documents to escrow, and the transaction was rescued. **Not only did things close on time, Andy also negotiated better terms for the buyer.**
 
 Thanks to this amazing group of people, things worked out and ended up better than they were before.
 
