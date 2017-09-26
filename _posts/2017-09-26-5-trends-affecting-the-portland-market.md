@@ -38,4 +38,4 @@ Part of this change is seasonal, **but we are definitely seeing some indicators 
 
 We’re starting to see some indicators that our market is starting to get leveled out. It’s starting to get more healthy and normal. However, **it’s still a fantastic time to sell a home if you’re in the market for it.**
 
-**If you have any questions for us, don’t hesitate to give us a call or send**us an email. We look forward to hearing from you soon.
+**If you have any questions for us, don’t hesitate to give us a call or send&nbsp;**us an email. We look forward to hearing from you soon.
