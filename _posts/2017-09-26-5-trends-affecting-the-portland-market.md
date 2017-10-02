@@ -30,7 +30,7 @@ Part of this change is seasonal, **but we are definitely seeing some indicators 
 
 {% include pullquote.html %}
 
-**3. Failed sails.** About 612 home sales failed in the last 45 days. These are all instances where a sale was agreed upon but fell apart during negotiations for whatever reason. This tells us that buyer expectations are high right now and they aren’t afraid to walk away.
+**3. Failed sales.** About 612 home sales failed in the last 45 days. These are all instances where a sale was agreed upon but fell apart during negotiations for whatever reason. This tells us that buyer expectations are high right now and they aren’t afraid to walk away.
 
 **4. A big increase in price reductions.** We’ve seen 43% of all homes in the Portland metro area have at least one price reduction in the last 30 to 45 days. This is significant because we haven’t seen many price reductions in a long time. We’ve seen more of the opposite with bidding wars.
 
