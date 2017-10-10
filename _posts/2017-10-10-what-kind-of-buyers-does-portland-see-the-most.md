@@ -12,7 +12,8 @@ pullquote: These buyer trends are making our market surge.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: >-
+  /uploads/annestewart-screenshot-tube-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01.jpg
 youtube_code: qu1zf_c6OaU
 ---
 
