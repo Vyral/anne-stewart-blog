@@ -36,9 +36,9 @@ Next are relocated buyers. This includes people who are either living out of sta
 
 There are several “hot spots” in the country from which these kinds of buyers come—whether they’re moving for work or simply because they admire the Portland lifestyle.
 
-The fourth group of buyers are overseas buyers—which are closely related to our previous category. In Portland, we see a lot of overseas buyers coming from places like China, for example, who view our city as an affordable West Coast option.
+The fourth group of buyers is overseas buyers—which is closely related to our previous category. In Portland, we see a lot of overseas buyers coming from places like China, for example, who view our city as an affordable West Coast option.
 
-With many of these buyer demographics coming from out of the area, truly native Portland residents are becoming more rare. **However, this trend might slow down if other cities elsewhere in the country start to experience a market shift.**
+With many of these buyer demographics coming from out of the area, truly native Portland residents are becoming rarer. **However, this trend might slow down if other cities elsewhere in the country start to experience a market shift.**
 
 But for now, these buyer trends are making our market surge.
 
