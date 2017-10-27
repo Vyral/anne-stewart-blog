@@ -30,7 +30,7 @@ Of course, we all have different sensitivities. Variations such as culture and m
 
 So, what do you do when a house has a dark past? **How can you handle listing a property that may be stigmatized due to past events?** I’d like to now move on to tell you about my own experience with this situation.
 
-Sadly, a past tenant in a rental property of mine passed as a result of suicide. After myself and everyone involved had a chance to process the events, we ultimately decided to sell the property.
+Sadly, a past tenant in a rental property of mine passed as a result of suicide. After I and everyone else involved had a chance to process the events, we ultimately decided to sell the property.
 
 {% include pullquote.html %}
 
@@ -42,6 +42,6 @@ After listing the home, I received two offers at fair market value. However, onc
 
 I tried for some time after that to continue to market the property at that value, but ultimately dropped the price. Once I did, I received many, many more offers. Even after I showed them the letter, the new buyers that I had brought in didn’t care. Because of the high level of interest dropping the price had created, **I was ironically able to bump the price up to nearly as high as I had listed it to begin with.**
 
-From my experience, I’ve found that sometimes the best route is to move the property into a different price point. You can sell a house with a past. It all comes down to the way you market, and to how sensitive a buyer is to a certain subject.
+From my experience, I’ve found that sometimes the best route is to move the property into a different price point. You can sell a house with a past. It all comes down to the way you market and to how sensitive a buyer is to a certain subject.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
