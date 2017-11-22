@@ -13,7 +13,7 @@ pullquote: >-
   when it comes time to retire.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: cIWbPENgvDw
 ---
@@ -27,7 +27,7 @@ Before I get into those reasons, I want to stress why it is I think this is impo
 
 Most us know that, as an average American, we can’t save our money fast enough for retirement. Most Americans are very, very behind in having enough money in reserves for when it comes time to retire.
 
-When you look around, there aren’t a lot of pensions available at companies anymore. The investment opportunities out there are so limited and they just don’t give you a lot of return.&nbsp;
+When you look around, there aren’t a lot of pensions available at companies anymore. The investment opportunities out there are so limited and they just don’t give you a lot of return.
 
 While owning rental estate isn’t glamorous, given that it’s more of a long-term strategy, there are some compelling reasons why you might want to consider it.
 
@@ -39,12 +39,10 @@ Yes, there are costs involved with owning rental real estate. Done correctly ove
 
 **Another reason is that you will get tax incentives**. Instead of paying the government, we can pay ourselves a little bit more money by taking advantage of the tax incentives that we get from owning investment properties. It’s a beautiful thing, right?
 
-Additionally, even if you’re not looking at it in terms of a retirement option, **you get an equity gain on average.&nbsp;**So if you plan to hold a property for several years, you get the possibility of a good equity position as well as a pay down. **You could also use it as a college savings plan by either using the equity to pay for expenses or by purchasing a rental property near the school** so that your kids can live there and rent out extra rooms.
+Additionally, even if you’re not looking at it in terms of a retirement option, **you get an equity gain on average.**So if you plan to hold a property for several years, you get the possibility of a good equity position as well as a pay down. **You could also use it as a college savings plan by either using the equity to pay for expenses or by purchasing a rental property near the school** so that your kids can live there and rent out extra rooms.
 
 There’s also the possibility that, down the road, you would get passive income through cash flow. I know a lot of people looking for passive income in their retirement years because once they stop working, where’s the income going to come from?
 
 So again, rental real estate isn’t glamorous, but I will say it’s definitely worth it.
 
 If you’re considering buying an investment property or want to learn more about it, please let us know. We do several seminars about it throughout the year. We’d be happy to give you an invite.
-
-&nbsp;
