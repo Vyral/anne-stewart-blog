@@ -23,13 +23,13 @@ youtube_code: cIWbPENgvDw
 
 Today’s topic will be the very compelling reasons why you should consider investing in real estate now.
 
-Before I get into those reasons, I want to stress why it is I think this is important. I come from a family of a lot of real estate investors, and I can tell you that the one thing that we have a belief in is that most of us want to retire.
+Before I get into those reasons, I want to stress why it is I think this is important. I come from a family of real estate inventors, and the one thing we all have in common is that we want to retire.&nbsp;
 
 Most us know that, as an average American, we can’t save our money fast enough for retirement. Most Americans are very, very behind in having enough money in reserves for when it comes time to retire.
 
 When you look around, there aren’t a lot of pensions available at companies anymore. The investment opportunities out there are so limited and they just don’t give you a lot of return.
 
-While owning rental estate isn’t glamorous, given that it’s more of a long-term strategy, there are some compelling reasons why you might want to consider it.
+While owning a rental property may not seem very glamorous since it's a long-term strategy, there are some compelling reasons to consider it.&nbsp;
 
 {% include pullquote.html %}
 
