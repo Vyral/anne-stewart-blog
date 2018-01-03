@@ -18,9 +18,9 @@ youtube_code: IRsJXucu9uI
 
 {% include youtube.html %}
 
-We are currently on the lookout for an individual to join our growing team. We’re a team of do-ers here at Quinn Stewart Real Estate. **Our team sold over 100 properties last year and the average team member here makes over $100,000 per year, but that’s not what makes us unique.**
+We are currently on the lookout for an individual to join our growing team. We’re a team of doers here at Quinn Stewart Real Estate. **Our team sold over 100 properties last year and the average team member here makes over $100,000 per year, but that’s not what makes us unique.**
 
-What makes us unique is that we all truly care about one another and encourage each other in all aspects of life. We have a spirit of gratitude here, which we share regularly. I don’t think we’d have all the success we have had without those things. The atmosphere of fun, hard work, and success is infections. We’re a team-oriented company because we all achieve more success together. **We’re here to help each other and support each other every day.**
+What makes us unique is that we all truly care about one another and encourage each other in all aspects of life. We have a spirit of gratitude here, which we share regularly. I don’t think we’d have all the success we have had without those things. The atmosphere of fun, hard work, and success is infectious. We’re a team-oriented company because we all achieve more success together. **We’re here to help each other and support each other every day.**
 
 {% include pullquote.html %}
 
