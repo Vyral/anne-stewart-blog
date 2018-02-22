@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: s6rm7TJh3RA
+youtube_code: BPQ4cjYyFIU
 ---
 
 {% include youtube.html %}
@@ -39,9 +39,9 @@ When people come to us needing to sell this kind of property, they are often sca
 
 Some banks will give you a healthy extension of six months to a year, while others will keep you on a 60- to 90-day time frame.
 
-**If you have to sell a property in probate, talk to an agent, get an evaluation on the property, and sign a listing agreement.&nbsp;**Most banks want a copy of the listing agreement sent in so that they know you are earnest about selling the home. They also want to know what the time frame is for getting the home on the market. Just be aware that doing so won’t stop them from calling you about foreclosure proceedings.
+**If you have to sell a property in probate, talk to an agent, get an evaluation on the property, and sign a listing agreement.**Most banks want a copy of the listing agreement sent in so that they know you are earnest about selling the home. They also want to know what the time frame is for getting the home on the market. Just be aware that doing so won’t stop them from calling you about foreclosure proceedings.
 
-It’s also important to work with a really good probate attorney. If you don’t know one, we can refer you to one. Your probate attorney can petition and file for the estate with the court. You want to get the court process done as soon as possible because you cannot sell the house until the court approves. This can be a lengthy process depending on the estate. &nbsp;It can take anywhere from 45 to 90 days to get through the system.
+It’s also important to work with a really good probate attorney. If you don’t know one, we can refer you to one. Your probate attorney can petition and file for the estate with the court. You want to get the court process done as soon as possible because you cannot sell the house until the court approves. This can be a lengthy process depending on the estate.  It can take anywhere from 45 to 90 days to get through the system.
 
 {% include pullquote.html %}
 
