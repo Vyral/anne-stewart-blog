@@ -24,7 +24,7 @@ When a buyer hires a home inspector to come look at a home, they are going to ma
 
 {% include pullquote.html %}
 
-Most of the things that show up on an inspection report are solvable.** If there are specific issues that the buyer is worried about, we will bring in an expert to give us a better estimate.** For example, if there was an issue with the roof, we would bring a roofing expert in to give a more thorough analysis.&nbsp;
+Most of the things that show up on an inspection report are solvable.&nbsp;** If there are specific issues that the buyer is worried about, we will bring in an expert to give us a better estimate**. For example, if there was an issue with the roof, we would bring a roofing expert in to give a more thorough analysis.&nbsp;
 
 After the inspections are completed and the buyer has had a chance to review the report, they have a decision to make. They could ask you to make some repairs, they could ask for a credit in the sale price to make them on their own, they could walk away from the deal, or they could proceed without asking for anything.
 
