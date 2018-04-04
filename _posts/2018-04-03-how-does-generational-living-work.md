@@ -18,10 +18,10 @@ youtube_code: IYZf5NXKebo
 
 In real estate, we are seeing generational living become a huge thing. We recently held an open house for a 5-bedroom home with well over 4,500 square feet and we were shocked at the number of buyers who came in looking for a setup where they can have mom, dad, their kids, or both living in the same household. **This trend seems to increase in popularity each year.**
 
-Portland is not exactly the most retirement-friendly place. Our cost of living is pretty high, as are our property taxes.** Downsizing won’t result in you paying much less like it would in other areas of the country.** Property values are just so high right now. This is why we're seeing more and more families come together under one roof.
+Portland is not exactly the most retirement-friendly place. Our cost of living is pretty high, as are our property taxes.&nbsp;**Downsizing won’t result in you paying much less like it would in other areas of the country.**Property values are just so high right now. This is why we're seeing more and more families come together under one roof.
 
 What they're typically looking for is something with a master bedroom on the main floor and two separate living areas. Accessory dwelling units are becoming more popular as well.
 
-**This is a really fascinating trend to watch.**If you have any questions about generational living or about other affordable living options in Portland for you and your extended family, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.
+**This is a really fascinating trend to watch.&nbsp;**If you have any questions about generational living or about other affordable living options in Portland for you and your extended family, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.
 
 {% include pullquote.html %}
