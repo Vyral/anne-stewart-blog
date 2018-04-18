@@ -26,7 +26,7 @@ First of all, what is private mortgage insurance? **Private mortgage insurance, 
 
 On average, PMI costs between $30 to $70 for every $100,000 of the amount you’re borrowing.
 
-However, if you’ve gained an equity position at or above 20%, even if you didn’t originally put 20% down, there is a possibility you could get your PMI removed. This isn’t a guarantee, but there are some banks that will allow this. Given that PMI costs an average of $100 to $200, removing this extra expense could translate into significant savings.
+However, if you’ve gained an equity position at or above 20%, even if you didn’t originally put 20% down, there is a possibility you could get your PMI removed. This isn’t a guarantee, but there are some banks that will allow it. Given that PMI costs an average of $100 to $200, removing this extra expense could translate into significant savings.
 
 {% include pullquote.html %}
 
