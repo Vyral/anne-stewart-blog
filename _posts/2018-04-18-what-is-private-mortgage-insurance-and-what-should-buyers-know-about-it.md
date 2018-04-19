@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: b-WvrYj1hyk
+youtube_code: dHQdz0RVims
 ---
 
 {% include youtube.html %}
@@ -35,5 +35,3 @@ Another common question that arises regarding the subject of PMI is whether this
 All of this being said, there are certain loan programs that allow you to put down less than 20% without taking on PMI. So, check with your lender to determine your options moving forward.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
