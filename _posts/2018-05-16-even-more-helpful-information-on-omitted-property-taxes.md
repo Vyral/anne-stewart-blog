@@ -22,9 +22,9 @@ youtube_code: dMbgxWETzy0
 
 Welcome to part two of my discussion about omitted property taxes.
 
-Since my first video about this topic, I’ve gotten a lot of feedback about it and I’ve been able to gather more useful information for you. **I even had specialist who fights property taxes for a living come into my office to conduct a seminar about it.**
+Since my first video about this topic, I’ve gotten a lot of feedback about it and I’ve been able to gather more useful information for you. **I even had a specialist who fights property taxes for a living come into my office to conduct a seminar about it.**
 
-If you didn’t want my last video, I’ll take a moment to explain what omitted taxes are.
+If you didn’t watch my last video, I’ll take a moment to explain what omitted taxes are.
 
 In the Portland metro area, there’s a cap on how much your property taxes can be increased each month (anywhere from 2% to 4% on average). There are circumstances that can change that, but one of the things the county is doing with omitted property taxes is checking if you’ve made significant improvements to your house or land and whether that means you can pay significantly more in property taxes. I don’t mean a couple hundred dollars more, either—I mean thousands.
 
@@ -38,9 +38,9 @@ The specialist told me **that these request forms are only optional and that I s
 
 {% include pullquote.html %}
 
-During this seminar, the question was also raised as to whether or not you have to let a tax assessor in your house if they knock on your door. According the specialist, **you do not have to let a county representative into your home to see what improvements you’ve done.** They are allowed to look through your windows, though. Many of these assessors can show up at properties to get a better understanding of what you have, so you can’t shoo them away, but you can choose to not let them enter your home.
+During this seminar, the question was also raised as to whether or not you have to let a tax assessor in your house if they knock on your door. According to the specialist, **you do not have to let a county representative into your home to see what improvements you’ve done.** They are allowed to look through your windows, though. Many of these assessors can show up at properties to get a better understanding of what you have, so you can’t shoo them away, but you can choose to not let them enter your home.
 
-I find it interesting that this kind of thing is occuring at a high level. Last year, each county made over $2 million in omitted property taxes, and they’ve hired more staff to look into certain permits and pull data from our MLS and popular real estate websites like Zillow to figure out ways to increase property taxes.
+I find it interesting that this kind of thing is occurring at a high level. Last year, each county made over $2 million in omitted property taxes, and they’ve hired more staff to look into certain permits and pull data from our MLS and popular real estate websites like Zillow to figure out ways to increase property taxes.
 
 So, again, if you or anyone you know out there has had any issues with omitted property taxes, we would like to help. Just give us a call or send us an email and we’ll be there to help out. We look forward to hearing from you soon.
 
