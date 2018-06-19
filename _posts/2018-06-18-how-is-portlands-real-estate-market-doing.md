@@ -18,21 +18,19 @@ youtube_code: EflbQ4n9Cok
 
 {% include youtube.html %}
 
-Today we have some rather interesting economic news to share with you about the Portland market. This isn’t just an update on the real estate market, but it’s an update on the economy in general. I get some great information from a local economist every quarter and he recently shared some very interesting news with me.
+Today we have some rather interesting economic news to share with you about the Portland market. This isn’t just an update on the real estate market, but it’s an update on the economy in general. I get a full report from local economist Bill Conerly every quarter, and he recently shared some very interesting news with me.
 
 I’m out there running around, meeting clients, and keeping a close eye on the market every day. My team and I can feel things happening in the marketplace really quickly. For example, the big lull we saw in the market last summer was felt almost immediately by myself and the members of my team.
 
 **Portland’s market is incredibly strong right now overall.** The unemployment rate is down, jobs are good, and we continue to have a huge influx of people moving here. That’s not great for traffic, but it’s great for our local economy and our local real estate market.
 
-I think the popularity of Portland is skyrocketing and there is no end in sight. Homebuyers are coming from all over. When you compare us to San Francisco, LA, or even Seattle, we’re considerably more affordable and that’s driving people to our market. **Actually, 40% of the buyers we work with are from out of state.**
+I think the popularity of Portland is skyrocketing and there is no end in sight. Homebuyers are coming from all over. When you compare us to San Francisco, Los Angeles, or even Seattle, we’re considerably more affordable and that’s driving people to our market. **Actually, 40% of the buyers we work with are from out of state.**
 
 Speaking of affordability, it’s gotten kind of out of hand in the eyes of native Portlanders. The demand for housing has been consistent, and a lot of people are trying to move into areas where they are closer to work or move up to a bigger and better home from their starter home.
 
 {% include pullquote.html %}
 
-Bill Conerly, a local economist, sends out reports every quarter and I’d like to share a few things from his latest report with you today. He takes a look at the global economy, the U.S. economy, and interest rates, to name a few different topics.
-
-As far as interest rates are concerned, he says to look for them to keep rising. They’ve jumped about 1% in the last year and they’re still at very good levels, but they are finally ticking up. He also says that it’s another great month for jobs. **If you want a full copy of Bill’s report, reach out to me and I’d love to send it to you.**
+As far as interest rates are concerned, Bill says to look for them to keep rising. They’ve jumped about 1% in the last year and they’re still at very good levels, but they are finally ticking up. He also says that it’s another great month for jobs. **If you want a full copy of Bill’s report, reach out to me and I’d love to send it to you.**
 
 If you have any additional questions about the economy, the real estate market, or anything else, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.
 
