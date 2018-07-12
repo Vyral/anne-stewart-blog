@@ -20,7 +20,7 @@ youtube_code: qjNcwg6IaOc
 
 {% include youtube.html %}
 
-Cash is king as far as homebuyers are concerned. You have the full amount to buy a home in the bank and don’t have to worry about receiving financing, having an appraisal, or going through underwriting. **A lot of sellers love this assuredness and it makes you a very strong buyer.**
+In today's real estate market, buyers must realize that cash is king. Cash is king as far as homebuyers are concerned. Submitting a cash offer for the full list price means buyers don't need to worry about receiving financing, going through the appraisal process, or being underwritten.&nbsp;**A lot of sellers love this assuredness and it makes you a very strong buyer.**
 
 What can you expect as a cash buyer in this market? For one, **the seller is going to want proof that your money is liquid.** If you’re pulling your cash out of some retirement account or another investment, you don’t have the cash on hand. You’ll have to show proof that you have access to it. They can’t just take your word for it.
 
@@ -28,7 +28,7 @@ What can you expect as a cash buyer in this market? For one, **the seller is goi
 
 When you have that proof of cash, it gives you the ability to negotiate a little bit more. For the seller, not having to deal with a lender, appraiser, etc., is a big advantage.
 
-**Another great thing about buying in cash is that you can buy quickly.** If you want to get a great offer accepted, let the seller know that you’ll cash them out quick.
+**Another great thing about buying in cash is that you can buy quickly.** If you want to get a great offer accepted, let the seller know that you’ll cash them out fast.
 
 If you’re from out of the country, it’s important that you know what your requirements are from your bank and how fast you can get the money in the country. We’ve seen certain foreign banks put restrictions on the amount of money that you can take out at a time.
 
