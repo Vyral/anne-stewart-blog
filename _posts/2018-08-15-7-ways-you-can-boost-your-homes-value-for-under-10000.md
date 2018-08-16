@@ -21,7 +21,7 @@ youtube_code: aQ-E1nAoEOo
 
 Here are seven ways you can add to your home’s value while spending less than $10,000:
 
-**1. Amp up the curb appeal.** When someone pulls up to your house, what do they see right away? If the answer is flaky exterior paint, a drab front door color, or “meh” landscaping, you should spend some time improving those areas. Colored front doors, for example, are all the rage right now, and I’m seeing people get more creative than just the plain old black, white, or red ones we’re used to seeing. Enhancing your home’s exterior makes a big difference in terms of &nbsp;value and its impact on buyers.
+**1. Amp up the curb appeal.** When someone pulls up to your house, what do they see right away? If the answer is flaky exterior paint, a drab front door color, or “meh” landscaping, you should spend some time improving those areas. Colored front doors, for example, are all the rage right now, and I’m seeing people get more creative than just the plain old black, white, or red ones we’re used to seeing. Enhancing your home’s exterior makes a big difference in terms of value and its impact on buyers.
 
 **2. Replace your current windows with vinyl windows.** This can improve your home’s energy efficiency and save on utility costs.
 
@@ -35,7 +35,7 @@ Here are seven ways you can add to your home’s value while spending less than 
 
 **6. Install new carpet/Add a fresh coat of paint.** These are the two things I advise most often to people who are preparing their home for the market. They’ll make you feel like your home just got a facelift.
 
-**7. Improve the home’s organization.** Many people value use of space and knowing that they haves areas to put their belongings. I recommend giving your home an audit to see if there’s any dead space that can be converted into storage space.
+**7. Improve the home’s organization.** Many people value their use of space and knowing that they have areas to put their belongings. I recommend giving your home an audit to see if there’s any dead space that can be converted into storage space.
 
 If you have any questions about any of these items or you have any other real estate needs I can take care of, please feel free to reach out to me. I would be happy to help you.
 
