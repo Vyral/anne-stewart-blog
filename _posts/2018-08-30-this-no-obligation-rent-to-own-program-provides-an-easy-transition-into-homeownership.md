@@ -4,10 +4,7 @@ title: >-
   This No-Obligation Rent-To-Own Program Provides an Easy Transition Into
   Homeownership
 tags:
-  - Market Update
-  - Real Estate
   - Buyer Tips
-  - Home Seller Tips
 excerpt: >-
   I’ve spoken out in the past about most rent-to-own programs being scams, but
   the we’ll be discussing today is actually an amazing opportunity.
@@ -46,5 +43,3 @@ If you do decide to purchase the home, however, you can do this at any time afte
 Of course, not every home on the market will qualify for this program. The company does have some criteria. Still, most houses that are free of structural or safety issues will qualify.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
