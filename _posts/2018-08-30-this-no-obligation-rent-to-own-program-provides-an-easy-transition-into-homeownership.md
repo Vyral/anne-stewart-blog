@@ -7,7 +7,7 @@ tags:
   - Buyer Tips
 excerpt: >-
   I’ve spoken out in the past about most rent-to-own programs being scams, but
-  the we’ll be discussing today is actually an amazing opportunity.
+  the one we’ll be discussing today is actually an amazing opportunity.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Anne+Stewart/Videos/2018/Rent+To+Own+-+Portland+Real+Estate+Agent.mp4
 pullquote: >-
