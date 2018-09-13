@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: BNFzD0MRNPE
+youtube_code: nazgkuy8sio
 ---
 
 {% include youtube.html %}
@@ -22,7 +22,7 @@ A lot of people out there think you need to put exactly 20% down to buy a home b
 
 In reality, most of us can’t save fast enough to be able to put down 20% in today’s market. That’s okay, though, because the good news is **there are many loan programs out there that don’t require you to put down 20%.**
 
-Before I go any further, let me say that I believe putting 20% down is smart move. It puts you in an instant equity position and oftentimes allows you to get the best interest rates and financing terms. Additionally, if you’re buying a house to use as a rental property, you’ll have to put down 25%.
+Before I go any further, let me say that I believe putting 20% down is a smart move. It puts you in an instant equity position and oftentimes allows you to get the best interest rates and financing terms. Additionally, if you’re buying a house to use as a rental property, you’ll have to put down 25%.
 
 Now, if you can’t afford to put down 20%, you want to keep some money in reserve as a safety net when you buy, or it doesn’t make sense in your particular situation to put down 20%, there are various other options you can explore.
 
