@@ -20,7 +20,7 @@ youtube_code: yXI1P3xNl44
 
 If you're looking to come to the Portland area and buy a home, there are some things that you need to be aware of. This is why today I want to tell you all about Portland and what the process of relocating here looks like.
 
-The first thing to know is that **Portland is a big, small city**. Compared to other metropolitan areas, Portland is actually pretty small, but it's spread out. This is why it's important to know where you want to look for a home because neighborhoods can differ so greatly in school districts and walkability.
+The first thing to know is that **Portland is a big, small city**. Compared to other metropolitan areas, Portland is actually pretty small, but it's spread out. This is why it's important to know where you want to look for a home because neighborhoods can differ so greatly in terms of school districts and walkability.
 
 I recently received an email from a client moving to Portland from abroad. They wanted to live in a metropolitan area because they're used to walking to shops and getting around by bike. Living in the downtown area may be the perfect fit for them.
 
