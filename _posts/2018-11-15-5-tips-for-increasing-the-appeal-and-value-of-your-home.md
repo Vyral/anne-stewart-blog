@@ -23,7 +23,7 @@ youtube_code: 9wOczXeEPX4
 
 Oftentimes, our clients are living in their homes while they’re trying to sell them, so my tips for you today will help you add value to your home while still allowing you to live there during the process.
 
-**1. Declutter.** Get rid of everything you don’t need. I often tell my clients to either sell it, donate it, or chuck it—whatever it takes to minimize the number of things you have in the home so that potential buyers won’t be distracted. You want them to see a very clean, minimized interior of the home. You’ll be packing up anyway, so pack those things you want to keep away and put them in a storage unit, your attic, your garage, or some other place that won’t be in the way.
+**1. Declutter.** Get rid of everything you don’t need. I often tell my clients to either sell it, donate it, or chuck it—whatever it takes to minimize the number of things you have in the home so that potential buyers won’t be distracted. You want them to see a very clean, minimized interior of the home. You’ll be packing up anyway, so pack those things you want to keep away and put them in a storage unit, your attic, your garage, or some other place that won’t be in the way.&nbsp;
 
 **2. Deep clean.** When was the last time you went to a five-star hotel? Try to emulate that level of clean. Clean the bathrooms, the moldings, and all those places we tend to forget about when we do our normal cleaning. You should not only clean, but also have a plan in place to keep your home clean throughout the selling process.
 
