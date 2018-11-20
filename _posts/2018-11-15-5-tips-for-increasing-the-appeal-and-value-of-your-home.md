@@ -29,7 +29,7 @@ Oftentimes, our clients are living in their homes while they’re trying to sell
 
 **3. Maintain your privacy.** A lot of times, the people we’re having come through your home are people you don’t know. They’re usually coming with an agent, but we still want to be sure your things are safe. Any personal belongings, valuables, prescription medications, and so on should be locked up and hidden away. Let’s not tempt anyone with anything that is overly valuable.
 
-**4. Kids and pets.** With your kids, make it a game: get some storage bins and let them put their toys in it, and create a contest to see how clean they can keep their space while people are viewing the home. It’s a good idea to establish a rule that they need to replace any toys they get out back in the bin when they’re finished.<br><br>For your pets, it’s always good to have a plan to keep them caged, kennelled up, or out of the house altogether. If need be, make sure that litter boxes are clean and/or out of sight. The smell of an animal can really trigger buyers in a negative way, so be sure to have a third party evaluate any smells of the house. If carpets need to be cleaned or if anything needs to be adjusted based on how you’ve typically lived in your home with your animals, now’s the time to do that.
+**4. Kids and pets.** With your kids, make it a game: Get some storage bins and let them put their toys in it, and create a contest to see how clean they can keep their space while people are viewing the home. It’s a good idea to establish a rule that they need to replace any toys they get out back in the bin when they’re finished.<br><br>For your pets, it’s always good to have a plan to keep them caged, kennelled up, or out of the house altogether. If need be, make sure that litter boxes are clean and/or out of sight. The smell of an animal can really trigger buyers in a negative way, so be sure to have a third party evaluate any smells of the house. If carpets need to be cleaned or if anything needs to be adjusted based on how you’ve typically lived in your home with your animals, now’s the time to do that.
 
 **5. Present the house in its best format.** If you’ve ever watched HGTV, sometimes you’ll see the couples go through homes that aren’t exactly clean or in great shape; some of them haven’t had someone come through to help them adjust furniture and make each space look its best.
 
@@ -37,6 +37,6 @@ Oftentimes, our clients are living in their homes while they’re trying to sell
 
 It’s showtime: You’re not going to be living in this house the same way as you’re selling it. Have a third party, like your agent, come look through the home to help you identify what needs to be there and what doesn’t. This is also a good time to keep an eye out for any repairs that might need to be made before you put your home on the market. If they’re caught in the light, they can really distract a buyer from wanting to purchase your home.
 
-If you have any other questions what would help you maximize the value of your home and get it ready for sale, feel free to reach out to the Quinn Stewart Real Estate Group. We’d love to help.
+If you have any other questions what would help you maximize the value of your home and get it ready for sale, feel free to reach out to us today. We’d love to help.
 
 &nbsp;
