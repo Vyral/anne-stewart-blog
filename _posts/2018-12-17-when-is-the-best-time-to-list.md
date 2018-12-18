@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When Is The Best Time to List?
+title: When Is the Best Time to List?
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -8,7 +8,7 @@ excerpt: >-
   We’ll be addressing this common question today.
 enclosure:
 pullquote: >-
-  : Your flowers may not be in bloom and your landscaping may not be perfect
+  Your flowers may not be in bloom and your landscaping may not be perfect
   during these colder months, but getting ahead of the market is an incredible
   strategy
 enclosure_type: video/mp4
@@ -39,5 +39,3 @@ Your flowers may not be in bloom and your landscaping may not be perfect during 
 The first and second quarter are the most active times of the year for our real estate market. **Why not start preparing now and get an edge on the competition you would face if you waited until spring?** Our team would be happy to guide you through the process.
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
-
-&nbsp;
