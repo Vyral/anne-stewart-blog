@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 Trends That Have Defined Our Portland Market so Far in 2019
+title: 4 Trends That Have Defined Our Portland Market So Far in 2019
 tags:
   - Market Update
   - Real Estate
@@ -20,13 +20,13 @@ youtube_code: TuEzgi9VuT4
 
 {% include youtube.html %}
 
-Now that we’re into February of 2019, it’s time for a quick market update from our Portland area.
+Now that we’ve reached February of 2019, it’s time for a quick market update from our Portland area.
 
 Overall, we’ve seen a dip in our market over the last several months. We’re transitioning out of the fast-paced market we’ve seen over the past few years, and now things are leveling out a bit. During the previous market cycle, buyers typically came out of the woodwork during each year’s first quarter, but is that the case so far in 2019? &nbsp;
 
 Here are the four most fascinating trends I’ve noticed:
 
-**1. Fewer home sales.** You read that right: fewer home sales. This doesn’t mean the sky is falling—it just means that there are fewer sales being put together between buyers and sellers. At the same time, inventory hasn’t really risen much either, which brings me to my next point…
+**1. Fewer home sales.** You read that right: fewer home sales. This doesn’t mean the sky is falling—it just means that there are fewer sales being put together between buyers and sellers. At the same time, inventory hasn’t really risen much either, which brings me to my next point:
 
 **2. Good homes are still selling quickly.** If a home is priced right and in good condition, the market will still sweep it up. We’re not seeing as many bidding wars that lead to homes selling over asking price, though, and with the multiple-offer situations we have seen, there has been more negotiation over price and terms. Homes that are priced a little high and aren’t in as good of a condition are sitting longer on the market, and some of these sellers have resorted to reducing their prices.
 
