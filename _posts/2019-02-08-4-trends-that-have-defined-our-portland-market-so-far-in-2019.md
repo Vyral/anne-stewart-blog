@@ -15,14 +15,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: TuEzgi9VuT4
+youtube_code: DqZEBBj_roA
 ---
 
 {% include youtube.html %}
 
 Now that we’ve reached February of 2019, it’s time for a quick market update from our Portland area.
 
-Overall, we’ve seen a dip in our market over the last several months. We’re transitioning out of the fast-paced market we’ve seen over the past few years, and now things are leveling out a bit. During the previous market cycle, buyers typically came out of the woodwork during each year’s first quarter, but is that the case so far in 2019? &nbsp;
+Overall, we’ve seen a dip in our market over the last several months. We’re transitioning out of the fast-paced market we’ve seen over the past few years, and now things are leveling out a bit. During the previous market cycle, buyers typically came out of the woodwork during each year’s first quarter, but is that the case so far in 2019?  
 
 Here are the four most fascinating trends I’ve noticed:
 
