@@ -19,8 +19,6 @@ youtube_code: aYqAqp8cWlA
 
 {% include youtube.html %}
 
-&nbsp;
-
 The key to maximizing what your home can sell for once you put it on the market is following a three-point formula my team and I use that we call “The Trifecta.”
 
 **The first part of this trifecta is marketing.** This is your agent’s responsibility, but unfortunately, a lot of agents get cheap or fail to utilize technology when it comes to marketing. It’s our job to have as many prospective buyers in your area looking at your home, and then to bring those buyers to your front door.
