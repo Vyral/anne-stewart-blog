@@ -19,9 +19,9 @@ youtube_code: aYqAqp8cWlA
 
 {% include youtube.html %}
 
-The key to maximizing what your home can sell for once you put it on the market is following a three-point formula my team and I use that we call “The Trifecta.”
+The best way to maximize what your home can sell for is to follow a three-point formula my team and I call “The Trifecta.”
 
-**The first part of this trifecta is marketing.** This is your agent’s responsibility, but unfortunately, a lot of agents get cheap or fail to utilize technology when it comes to marketing. It’s our job to have as many prospective buyers in your area looking at your home, and then to bring those buyers to your front door.
+**The first part of this trifecta is marketing.** This is your agent’s responsibility, but unfortunately, a lot of agents get cheap or fail to utilize technology when it comes to marketing. &nbsp;It’s our job to have as many prospective buyers in your area as possible looking at your home, and then to bring those buyers to your front door.
 
 For us, this means marketing online where most consumers are looking for properties. We pay for websites and marketing channels, and we utilize social media in a way that allows people to view your property quicker.
 
@@ -35,6 +35,4 @@ This also includes marketing to other agents as well as buyers. We know that buy
 
 Our sellers, on average, sell their homes within the first 30 days of putting them on the market because we focus on all three of these factors. Combining them amounts to creating the perfect storm of buyer interest.
 
-A lot ot sellers are getting their homes ready for the market right now, so if you’d like to know more about what you can do to sell your home for top dollar, don’t hesitate to reach out to us. We’d love to help you.
-
-&nbsp;
+A lot of sellers are getting their home ready for the market right now, so if you’d like to know more about what you can do to sell your home for top dollar, don’t hesitate to reach out to us. We’d love to help you.
