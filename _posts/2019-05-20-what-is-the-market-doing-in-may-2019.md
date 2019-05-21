@@ -19,7 +19,7 @@ youtube_code: jYGgvmZ0DKE
 
 It’s May 2019 and we’re quickly approaching the summer market. A lot of people have been asking me lately about what the market is doing right now, so here’s my assessment based on what I’m seeing.
 
-**We always break our year down into quarters because the market shifts every 90 days or so.** It’s true. 90 days ago, we didn’t have the same market as we do right now, and it will be even different 90 days from now.&nbsp;
+**We always break our year down into quarters because the market shifts every 90 days or so.** It’s true: 90 days ago, we didn’t have the same market as we do right now, and it will be different again in another 90 days.&nbsp;
 
 Even though the market changes, we do see similar trends every year in the same markets. **Typically, the highest number of closings for our market in a given year will happen in May.** The buyers for those homes show in January, February, and March so they can get the home closed by May. This is why you should consider getting on the market earlier than the spring. If you’re on the market in the early months of the year, you’ll be in a great position to close on the property when it’s nicer out.
 
@@ -29,8 +29,6 @@ This January, we started out a little slow, which is out of the norm from what w
 
 In mid-February, our market took off and has been going strong ever since. We tend to see things slump off a bit in June before things peak again after school begins.
 
-**All in all, this is a great market to buy or sell a home in.** Our home prices are increasing at a more healthy than they have been and homes are still affordable for the time being. People continue to move to Portland as well, but that doesn’t show signs of slowing down either.
+**All in all, this is a great market to buy or sell a home in.** Our home prices are increasing at a more healthy rate than they have been and homes are still affordable for the time being. People continue to move to Portland as well, but that doesn’t show signs of slowing down either.
 
 If you have any questions about buying or selling a home in Portland or about anything else related to real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
