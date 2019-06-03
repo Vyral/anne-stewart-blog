@@ -11,7 +11,7 @@ enclosure: >-
 pullquote: Certain ages of homeowners tend to sell for similar reasons.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 38xOh1X530Q
 ---
