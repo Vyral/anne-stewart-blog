@@ -20,7 +20,7 @@ youtube_code: 38xOh1X530Q
 
 I was reading an article recently that was talking about the three groups of people who sell their houses and why they sell. **As I kept reading, I thought that they did a great job of grouping most home sellers into these three archetypes**. As it turns out, certain age categories tend to sell for similar reasons.&nbsp;
 
-For home sellers in the age range of 29 to 38, the reason most of them sell is because their house is too small and they need something bigger or closer to work. They are often referred to as move-up buyers.
+For home sellers in the age range of 29 to 38, the reason most of them sell is that because their house is too small and they need something bigger or closer to work. They are often referred to as move-up buyers.
 
 {% include pullquote.html %}
 
