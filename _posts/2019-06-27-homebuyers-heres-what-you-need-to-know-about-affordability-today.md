@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Interest rates are low and affordability is high. Let’s talk about what this
   means for your home buying goals.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Anne+Stewart/Videos/2019/Why+Buying+Is+Still+Affordable+(1).mp4
 pullquote: 'Between higher paychecks and lower interest rates, affordability remains high.'
 enclosure_type: video/mp4
 enclosure_time:
