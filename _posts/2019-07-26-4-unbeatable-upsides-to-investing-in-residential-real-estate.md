@@ -7,7 +7,7 @@ excerpt: >-
   In today’s message, I’m listing the four reasons why you should own
   residential real estate if you don’t already.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Anne+Stewart/Videos/2019/Why+Buying+Is+Still+Affordable.mp4
+  https://vyralmarketing.s3.amazonaws.com/Anne+Stewart/Videos/2019/4+Reasons+To+Own+A+Home.mp4
 pullquote: >-
   Financially speaking, you cannot beat the numbers that I see each year when I
   help clients invest in residential real estate.
