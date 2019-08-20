@@ -29,7 +29,7 @@ In the Portland Metro area, year-over-year appreciation stands at roughly 4%, wh
 
 Second, **interest rates are extremely low.** They recently dipped to their lowest point in two years and are hovering in the 3% range. This means buyers’ buying power is increasing and sellers’ selling power is strong. It’s important to have that balance where buyers can afford houses and sellers can take advantage of strong demand. Good interest rates mean a good market, so if you’re thinking about making a move or refinancing, now’s the time.&nbsp;
 
-Lastly, **there are no indicators that a recession is imminent.** Many people assume a great market can’t happen without being followed by a terrible recession because of what happened in 2008, but there’s no reason to believe a crash is coming. In any case, a recession doesn’t automatically we’ll fall off a cliff the way we did more than a decade ago.&nbsp;
+Lastly, **there are no indicators that a recession is imminent.** Many people assume a great market can’t happen without being followed by a terrible recession because of what happened in 2008, but there’s no reason to believe a crash is coming. In any case, a recession doesn’t automatically mean we’ll fall off a cliff the way we did more than a decade ago.&nbsp;
 
 To be clear, markets always ebb and flow, and we’re due for a shift, but there’s a healthy balance between buyers and sellers right now. Additionally, the Portland market is well insulated due to the high number of people moving to the area.&nbsp;
 
