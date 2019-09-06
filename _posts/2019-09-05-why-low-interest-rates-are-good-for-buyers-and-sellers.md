@@ -18,11 +18,11 @@ youtube_code: YX2w32-gd0I
 
 {% include youtube.html %}
 
-We haven’t seen interest rates this low in a while, so I wanted to take a few minutes today to explain to them why they’re so important. **We’re back to historic low interest rates and that means cheap money for buyers.**
+We haven’t seen interest rates this low in a while, so I wanted to take a few minutes today to explain to why they’re so important. **We’re back to historic low interest rates and that means cheap money for buyers.**
 
 For buyers out there who’ve been considering a move, your buying power just went up substantially.
 
-**And for all the sellers out there, know that these low rates are going to increase the amount of buyers we see and keep prices going up.&nbsp;**
+**And for all the sellers out there, know that these low rates are going to increase the number of buyers we see and keep prices going up.&nbsp;**
 
 {% include pullquote.html %}
 
