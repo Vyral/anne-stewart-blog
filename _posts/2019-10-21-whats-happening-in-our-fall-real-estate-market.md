@@ -13,7 +13,7 @@ pullquote: We still have a healthy number of buyers out there.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/10-21-19yt.jpg
 youtube_code: etE2uDz4p7Q
 ---
 
