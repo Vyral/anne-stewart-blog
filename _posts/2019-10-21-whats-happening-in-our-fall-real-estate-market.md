@@ -19,11 +19,11 @@ youtube_code: etE2uDz4p7Q
 
 {% include youtube.html %}
 
-There are a few things you should be aware of that are happening in our real estate market right now during fall 2019. A lot of you have been asking about what’s going on lately with that bit of stagnation in the market, so I wanted to address those questions today.
+A lot of you have been asking about what’s going on lately with that bit of stagnation in the market, so I wanted to address those questions today.
 
-As we head into the winter, sometimes we can be extremely busy in our market, while other times we feel a softening. Here are a few factors that play a role.
+Real estate during the winter isn't always the same from year to year. Sometimes our market is quite busy, while other times we see it soften during these colder months. To better assess where we stand as we head toward winter 2019, let's discuss a few key developments.&nbsp;
 
-First, the days on market has increased recently and is continuing to increase. It hasn’t been a huge boost, but it’s more of a seasonal increase that typically happens during this time of year.&nbsp;
+First, the average number of days homes are spending on the market has recently increased and is continuing to rise, as is a common seasonal trend at this time of year.
 
 **While prices are starting to dip a little bit, price reductions have only gone up by about 5%.** Again, this is typical of the fall market that cools off after the spring and summer.
 
