@@ -22,7 +22,7 @@ youtube_code: T4jn38DyS6c
 
 You may have heard about instant offer programs from companies like Zillow and Opendoor. There’s a lot of confusing information circulating about instant offers, and today I’d like to give you a quick look at what this home selling option is all about.
 
-**Basically, instant offer companies give homeowners a cash offer on their property.** One perk is that these companies are flexible, allowing for homeowners to close whenever they want. However, these companies rarely pay homeowners a fair market value, and their discounted offers can be incredibly low. For example, a client of mine received an instant offer for $431,000, but we put it on the market and were able to sell it for $545,000.&nbsp;
+**Instant offer companies give homeowners a cash offer on their property.** One perk is that these companies are flexible, allowing homeowners to close whenever they want. However, these companies rarely pay homeowners a fair market value, and their discounted offers can be incredibly low. For example, a client of mine received an instant offer for $431,000, but we put it on the market and were able to sell it for $545,000.&nbsp;
 
 {% include pullquote.html %}
 
