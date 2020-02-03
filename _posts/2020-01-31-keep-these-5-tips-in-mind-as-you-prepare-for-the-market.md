@@ -19,13 +19,13 @@ youtube_code: mqV12jyGq_c
 
 {% include youtube.html %}
 
-Here are five reasons why the winter market can actually be a great time to enter the market:
+Here are five reasons why winter can actually be a great time to enter the market:
 
 1. **In the winter, there is a higher number of listing appointments** with clients who are planning to sell later in the year. Selling a home involves lots of planning, including figuring out what the market is doing and what you need to do to prepare your home for sale in the spring.
-2. **Buyers are active**. Contrary to popular belief, buyers are still on the hunt this time of year; they’ve been hungry all winter long, and now is the time that they start looking again in earnest. We’ve seen a lot of multiple offer situations this time of year because demand is high,&nbsp; inventory is low, and interest rates are really low. This creates a market where buyers are ready to jump the minute they see something come onto the market.&nbsp;
-3. **Interest rates are low.** Last year, we never thought we’d see 3% rates ever again, but we were mistaken; rates just dipped down again last week. This means that it is cheap to borrow money right now, allowing buyers to afford more home when they buy and to lock in a better rate for the life of their loans.
+2. **Buyers are active**. Contrary to popular belief, buyers are still on the hunt this time of year; they’ve been hungry all winter long, and now is the time that they start looking again in earnest. We’ve seen a lot of multiple-offer situations this time of year because demand is high,&nbsp; inventory is low, and interest rates are really low. This creates a market where buyers are ready to jump the minute they see something come onto the market.&nbsp;
+3. **Interest rates are low.** Last year, we never thought we’d see 3% rates ever again, but we were mistaken; rates just dipped down again last week. This means that it is affordable to borrow money right now, allowing buyers to afford more home when they buy and to lock in a better rate for the life of their loans.
 4. **Inventory is low.** Right now, we have 1.8 months of inventory, meaning that if no other houses came on the market, it would take 1.8 months for us to sell all our available inventory. This same time last year, we had 2.5 months of inventory—almost double the amount we have this year. That tells us that there are far fewer jumping into the market this January than last January.
-5. **We can help you plan for the year**. It doesn’t matter if you’re not planning to sell for a couple of months or several, we can help you plan.
+5. **We can help you plan for the year**. It doesn’t matter if you’re not planning to sell for a couple of months or several—we can help you plan.
 
 {% include pullquote.html %}
 
