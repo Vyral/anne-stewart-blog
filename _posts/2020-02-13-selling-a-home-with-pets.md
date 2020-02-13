@@ -23,7 +23,11 @@ youtube_code: FHGw3AjlEWA
 
 {% include youtube.html %}
 
-<I><center>There are several key tips you need to know to sell a home that has pets in it.</center></I>
+&nbsp;
+
+<center><i>There are several key tips you need to know to sell a home that has pets in it.</i></center>
+
+&nbsp;
 
 How do you handle pets during home showings or the listing preparation process?&nbsp;
 
