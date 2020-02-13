@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: Selling a Home With Pets
 tags:
   - Market Update
   - Real Estate
@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   There are several key tips you need to know to sell a home that has pets in
   it.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Anne+Stewart/Videos/2020/How+To+Handle+Pets+During+Showings.mp4
 pullquote: >-
   If your pets are free to roam your house during the day, designate a
   comfortable spot for them during showings.
