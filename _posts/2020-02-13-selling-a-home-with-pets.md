@@ -16,8 +16,8 @@ pullquote: >-
   comfortable spot for them during showings.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/1-30-20yt.jpg
 youtube_code: FHGw3AjlEWA
 ---
 
