@@ -27,6 +27,8 @@ youtube_code: FHGw3AjlEWA
 
 How do you handle pets during home showings or the listing preparation process?&nbsp;
 
+&nbsp;
+
 To most of us, our pets are our fur babies. We care about them deeply, and we want to make sure we take care of them when selling a home. After all, this can be stressful for them—they’re probably not used to seeing so many strangers walk through your home. Here are a few tips you can use to make the home selling experience comfortable for you and your pet and still sell for top dollar.&nbsp;&nbsp;
 
 First, **have a plan.** If your pets are free to roam your house during the day, designate a comfortable spot for them during showings. This is especially important if you have cats who are skittish. It's also helpful to know how your pets react to strangers so you can plan accordingly. Sometimes, my team puts signage up in our clients’ homes and notifies visiting Realtors about what kind of pets they can expect to encounter. Be hyper-vigilant that your pets won’t exit the home quickly while a showing is happening or turn on someone who’s a complete stranger.&nbsp;
