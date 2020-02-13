@@ -25,9 +25,11 @@ youtube_code: FHGw3AjlEWA
 
 <center><em>There are several key tips you need to know to sell a home that has pets in it.</em></center>
 
-*How do you handle pets during home showings or the listing preparation process?&nbsp;*
+<center>&nbsp;</center>
 
-&nbsp;
+<center>&nbsp;</center>
+
+How do you handle pets during home showings or the listing preparation process?&nbsp;
 
 To most of us, our pets are our fur babies. We care about them deeply, and we want to make sure we take care of them when selling a home. After all, this can be stressful for them—they’re probably not used to seeing so many strangers walk through your home. Here are a few tips you can use to make the home selling experience comfortable for you and your pet and still sell for top dollar.&nbsp;&nbsp;
 
