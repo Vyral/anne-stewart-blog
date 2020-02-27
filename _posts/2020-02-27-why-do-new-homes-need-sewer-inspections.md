@@ -18,7 +18,7 @@ youtube_code: Qa-TEbAvDEI
 
 {% include youtube.html %}
 
-<center>A sewer inspection is always necessary, even on a brand-new home. Here&rsquo;s why.</center>
+<center><em>A sewer inspection is always necessary, even on a brand-new home. Here&rsquo;s why.</em></center>
 
 <center>&nbsp;</center>
 
