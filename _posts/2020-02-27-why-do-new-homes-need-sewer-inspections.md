@@ -18,7 +18,9 @@ youtube_code: Qa-TEbAvDEI
 
 {% include youtube.html %}
 
-<center><em>*A sewer inspection is always necessary, even on a brand-new home. Here’s why.*</em></center>
+<center><em>A sewer inspection is always necessary, even on a brand-new home. Here&rsquo;s why.</em></center>
+
+<center>&nbsp;</center>
 
 I’m here today at a new construction site to do a sewer scope inspection and I want to explain how this process works in case you weren’t aware.
 
