@@ -18,6 +18,8 @@ youtube_code: Qa-TEbAvDEI
 
 {% include youtube.html %}
 
+*A sewer inspection is always necessary, even on a brand-new home. Here’s why.*
+
 I’m here today at a new construction site to do a sewer scope inspection and I want to explain how this process works in case you weren’t aware.
 
 **Essentially, a camera is poked into the sewer line to make sure there are no cracks, breakages, or inclines that would prevent the sewer from working properly.** These lines are typically located within two feet of any crawlspace on a new home.
