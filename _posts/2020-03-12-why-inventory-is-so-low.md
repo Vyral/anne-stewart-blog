@@ -20,7 +20,7 @@ youtube_code: bUM13ZkgJWU
 
 {% include youtube.html %}
 
-*Inventory is low in the Portland market, and it’s because interest rates are also low and there’s a lack of new construction. *
+<CENTER><EM>Inventory is low in the Portland market, and it’s because interest rates are also low and there’s a lack of new construction. </EM></CENTER>
 
 There’s an inventory shortage in our market, and there are two reasons why.&nbsp;
 
