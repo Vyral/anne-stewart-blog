@@ -12,7 +12,7 @@ enclosure: >-
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: py2I4onBTLY
 ---
@@ -21,6 +21,6 @@ youtube_code: py2I4onBTLY
 
 <center><em>Is COVID-19 impacting our real estate market? Find out here.</em></center>
 
-&nbsp; &nbsp; 
+&nbsp; &nbsp;
 
 I hope you’ve all managed to stay safe and sound\! I know these are trying times for a lot of people, given what we’re experiencing with the stay-at-home orders. Many of you have reached out to me to ask about what’s going on in the world of real estate. Has the pandemic affected our market? Today I’ll share a few key details that will give you a better perspective about how real estate manages to continue, even during the pandemic.
