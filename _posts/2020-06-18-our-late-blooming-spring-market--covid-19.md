@@ -7,7 +7,8 @@ tags:
   - Buyer Tips
   - Home Seller Tips
 excerpt: Summer is the new spring when it comes to real estate this year.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Anne+Stewart/Summer+Is+The+New+Spring.mp4
 pullquote: >-
   People have finally started getting comfortable with the idea of carrying out
   real estate transactions.
