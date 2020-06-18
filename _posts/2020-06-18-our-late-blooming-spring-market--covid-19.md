@@ -22,6 +22,7 @@ youtube_code: xE-zHtoDw1M
 {% include youtube.html %}
 
 <center><em>Summer is the new spring when it comes to real estate this year.</em></center>
+&nbsp;
 
 <center>&nbsp;</center>
 
