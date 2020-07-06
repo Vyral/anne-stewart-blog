@@ -18,7 +18,8 @@ youtube_code: 2qGI0MnxoW0
 
 {% include youtube.html %}
 
-*Here are my thoughts about the current state of our housing market. Here are my thoughts about the current state of our housing market.*
+<center><em>Here are my thoughts about the current state of our housing market. Here are my thoughts about the current state of our housing market.</em></center>
+&nbsp;
 
 {% include pullquote.html %}
 
