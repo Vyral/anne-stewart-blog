@@ -24,8 +24,6 @@ youtube_code: 2qGI0MnxoW0
 
 A lot of people have been asking me if our housing market is going to crash. I don’t believe it will, and there are four reasons why this situation is different than the recession of 2008.
 
-&nbsp;
-
 {% include pullquote.html %}&nbsp;
 
 **1\. 58.7% of homes in the U.S. have 60% equity.** That means a majority of homeowners have large sums of equity built up in their homes. It’s not like during the great recession when one of the biggest challenges was that people were taking out 100% of their home loan and only paying interest. We were selling houses left and right without any foresight of what would happen if the market corrected. When it did turn, nobody had any equity. In today’s market, homeowners have much more power and are much more safeguarded than in the past.&nbsp;
