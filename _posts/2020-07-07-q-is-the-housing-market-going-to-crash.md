@@ -30,7 +30,7 @@ A lot of people have been asking me if our housing market is going to crash. I d
 
 **2\. 42% of homes are mortgage-free.** That once again shows that homeowners have significant equity and own their homes free and clear. A shortage of inventory is also the opposite of what we saw in 2008. My colleagues across the country are experiencing this same trend of very low inventory. Part of this is because interest rates are so low, and fewer people are selling.&nbsp;
 
-**3\. Irresponsible lending practices are gone.** Back in 2008, you could fog a mirror and get a loan. These days, the lending guidelines are much more strict and the bad lending practices are a thing of the past.
+**3\. Irresponsible lending practices are gone.** Back in 2008, you could fog a mirror and get a loan. These days, the lending guidelines are much more strict, and the bad lending practices are a thing of the past.
 
 **4\. Home appreciation isn’t out of control.** A normal economist will say a 4% annual appreciation of home value is a nice, healthy upward tick. If you start to hit double digits, you’re going to have a correction. In Portland, even though we saw some pretty big peaks, we have not seen double digits. We’ve seen a nice, healthy 6% to 8% annual appreciation, we can survive.
 
