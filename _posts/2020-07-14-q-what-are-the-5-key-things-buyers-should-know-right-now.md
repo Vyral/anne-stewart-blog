@@ -18,7 +18,9 @@ youtube_code: _KmsVRo6tsU
 
 {% include youtube.html %}
 
-*Today I’m sharing five tips that will turn timid buyers into capable pros.*
+<center><em>Today I’m sharing five tips that will turn timid buyers into capable pros.</em></center>
+
+&nbsp;&nbsp;
 
 One thing I’ve learned in almost 20 years of real estate is that sometimes, the weirdest markets harbor the best opportunities to buy. The key, of course, is approaching these atypical situations with the right mindset and information. Here are my five tips for buyers looking to enter the market amid these unusual circumstances:&nbsp;&nbsp;
 
