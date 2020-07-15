@@ -18,7 +18,7 @@ youtube_code: _KmsVRo6tsU
 
 {% include youtube.html %}
 
-<center><em>Today I’m sharing five tips that will turn timid buyers into capable pros.</em></center>
+<center><em>Today I&rsquo;m sharing five tips that will turn timid buyers into capable pros.</em></center>
 
 &nbsp;&nbsp;
 
@@ -32,8 +32,8 @@ It’s especially important to get pre-approved in this era of COVID because man
 
 **3\. Inventory is low.** You may expect to see twenty or more homes fit your criteria in the Portland metro area, only to discover that that pool is only four or five houses deep. In most cases, we’re still in a seller’s market. There are some areas around Portland where we’re starting to see some softening (i.e., inventory and days on market are on the rise), but we’re firmly in a low-inventory market on the whole.&nbsp;
 
-**4\. Interest rates are low.** Right now, rates are hovering around 3.1% (depending on the day of the week), and that is free money\! As I’ve mentioned, I’ve been doing this job for a long time, and when I got into the business, rates were at 9%. Let’s be honest—most of you have never seen rates that high, and would fall out of your chair if you saw them hit 9%. So, if you’re even remotely considering buying something, you’d be hard-pressed not to make a move now. Buying power has never been stronger, and I actually took advantage of rates myself in the form of a refinance.&nbsp;
+**4\. Interest rates are low.** Right now, rates are hovering around 3.1% (depending on the day of the week), and that is free money\! As I’ve mentioned, I’ve been doing this job for a long time, and when I got into the business, rates were at 9%. Let’s be honest—most of you have never seen rates that high and would fall out of your chair if you saw them hit 9%. So, if you’re even remotely considering buying something, you’d be hard-pressed not to make a move now. Buying power has never been stronger, and I actually took advantage of rates myself in the form of a refinance.&nbsp;
 
 **5\. Get expectations and formulate a strategy.** In some areas of town, and in certain prices, you have to be ready to rumble. Multiple-offer situations are just a reality of our market, and you need to devise a game plan for how to win out so you don’t end up exhausted from the process. Conversely, there are some parts of town where property is moving fairly slowly, giving you the wiggle room to negotiate. That’s why it’s critical that your strategy be reflective of your price point, location, and other needs.&nbsp;
 
-Most of these tips aren’t necessarily ground-breaking paradigm shifts, but nonetheless it’s now more important than ever to remember them. If you have any questions about the market or getting pre-approved, need a lender recommendation, or anything else, please reach out to us by phone or email. We’re always happy to help.
+Most of these tips aren’t necessarily ground-breaking paradigm shifts, but nonetheless it’s now more important than ever to remember them. If you have questions about the market or getting pre-approved, need a lender recommendation, or anything else, please reach out to us by phone or email. We’re always happy to help.
