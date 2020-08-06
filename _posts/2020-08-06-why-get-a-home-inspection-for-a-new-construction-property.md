@@ -20,7 +20,8 @@ youtube_code: gSbG1vdBk9M
 
 {% include youtube.html %}
 
-*Even if you’re buying a new construction home, I recommend ordering a home inspection. Here’s why.*
+<center><em>Even if you’re buying a new construction home, I recommend ordering a home inspection. Here’s why.</em></center>
+&nbsp;
 
 Why get a home inspection for a new construction property?&nbsp;
 
