@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Get a Home Inspection For a New Construction Property?
+title: 'Q: Why Get a Home Inspection For a New Construction Property?'
 tags:
   - Market Update
   - Real Estate
@@ -20,7 +20,8 @@ youtube_code: gSbG1vdBk9M
 
 {% include youtube.html %}
 
-<center><em>Even if you’re buying a new construction home, I recommend ordering a home inspection. Here’s why.</em></center>
+<center><em>Even if you&rsquo;re buying a new construction home, I recommend ordering a home inspection. Here&rsquo;s why.</em></center>
+
 &nbsp;
 
 Why get a home inspection for a new construction property?&nbsp;
