@@ -14,7 +14,7 @@ pullquote: >-
   real estate transactions.
 enclosure_type:
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: xE-zHtoDw1M
 ---
