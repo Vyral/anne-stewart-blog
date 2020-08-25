@@ -4,7 +4,8 @@ title: Is a Wave of Foreclosures About to Hit?
 tags:
   - Market Update
 excerpt: Here’s some important info to close the door on recent foreclosure fears.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Anne+Stewart/Videos/2020/Reasons+Why+We+Won't+See+A+Lot+Of+Foreclosures.mp4
 pullquote: >-
   In today’s market, 77% of all forbearances have at least a 20% equity
   position.
