@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is a Wave of Foreclosures About to Hit?
+title: Is Our Foreclosure Fear Justified?
 tags:
   - Market Update
 excerpt: Here’s some important info to close the door on recent foreclosure fears.
@@ -22,7 +22,7 @@ youtube_code: HdWc9zved20
 
 As you may have heard, some people are predicting that the fall and winter will bear a glut of foreclosures across the country. It’s obviously been a really rough year for many Americans; people have taken severe financial hits and lost their jobs. However, **there are two reasons why this dreaded wave of foreclosures isn’t about to come crashing down anytime soon.&nbsp;**
 
-Early on in the pandemic, the government basically permitted homeowners to request forbearance on their loans or avail themselves of some other avenue of relief, and many folks did run to their banks to seek leeway. While we can’t legally recommend a forbearance, we *can* notify you that it is one of the options at your disposal if you’ve been rocked by a financial hardship.
+Early on in the pandemic, the government basically permitted homeowners to request a forbearance on their loans or avail themselves of some other avenue of relief, and many folks did run to their banks to seek leeway. While we can’t legally recommend forbearance, we can notify you that it is one of the options at your disposal if you’ve been rocked by financial hardship
 
 {% include pullquote.html %}
 
