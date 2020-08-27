@@ -5,7 +5,7 @@ tags:
   - Market Update
 excerpt: Here’s some important info to close the door on recent foreclosure fears.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Anne+Stewart/Videos/2020/Reasons+Why+We+Won't+See+A+Lot+Of+Foreclosures.mp4
+  https://vyralmarketing.s3.amazonaws.com/Anne+Stewart/Videos/2020/Is+Our+Foreclosure+Fear+Justified_.mp4
 pullquote: >-
   In today’s market, 77% of all forbearances have at least a 20% equity
   position.
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image:
-youtube_code: HdWc9zved20
+youtube_code: fzVD2XmiqsY
 ---
 
 {% include youtube.html %}
