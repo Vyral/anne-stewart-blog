@@ -20,7 +20,7 @@ youtube_code: WDFaryEzgcw
 
 {% include youtube.html %}
 
-*Here’s a quick rundown of what buyers are looking for in a home. *
+<center><em>Here’s a quick rundown of what buyers are looking for in a home. </em></center>
 
 &nbsp;
 
