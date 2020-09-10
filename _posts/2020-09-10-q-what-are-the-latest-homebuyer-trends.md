@@ -20,17 +20,17 @@ youtube_code: WDFaryEzgcw
 
 {% include youtube.html %}
 
-<center><em>Here’s a quick rundown of what buyers are looking for in a home. </em></center>
+<center><em>Here&rsquo;s a quick rundown of what buyers are looking for in a home. </em></center>
 
 &nbsp;
 
-If you’re a seller, what trends are driving homebuyers in our real estate market?&nbsp;
+What trends are driving homebuyers in our real estate market?&nbsp;
 
 I know you’ve been hearing about the “new normal,” and it’s been fascinating to watch. It’s been six months or so since the pandemic hit, and I never imagined it would catapult the market the way it has. **In my experience dealing with clients, the most interesting thing that’s been happening is buyers deciding to move based on what they’ve experienced during the COVID era.&nbsp;**
 
 {% include pullquote.html %}
 
-For example, I’ve had clients call looking to downsize because they no longer want to to deal with maintaining a large house. I also had another client call because she was retiring, loves the coast, and wants to move out there. Additionally, plenty of people have called me who need a new home because they need a home office.&nbsp;
+For example, I’ve had clients call looking to downsize because they no longer want to deal with maintaining a large house. I also had another client call because she was retiring, loves the coast, and wants to move out there. Additionally, plenty of people have called me who need a new home because they need a home office.&nbsp;
 
 The list goes on and on. People have reevaluated their living situation and identified what they’re lacking, so here’s a list of additions to consider if you want to fix up your property according to what buyers are craving:
 
@@ -40,9 +40,9 @@ The list goes on and on. People have reevaluated their living situation and iden
 
 **3\. Home office space.** Now that a lot of us are working from home, some full-time and even indefinitely, having a home office space in your home is an obvious benefit. Perhaps you can convert an extra room, den, or another enclosed area.&nbsp;
 
-**4\. Personal spaces.** Those who have a family living with them perhaps may need two living areas in their new home so they can enjoy some alone time.&nbsp;
+**4\. Personal spaces.** Those who have family living with them may need two living areas in their new home so they can enjoy some alone time.&nbsp;
 
-On a related note, acreage properties are making a strong comeback due to the exodus of people from larger cities. I’ve been getting a lot of calls from Californains wanting to move up here to get away from city living. The condo and townhome market, on the other hand, hasn’t been drastically affected. People are still buying these properties because they’re affordable, and affordability will always be a top priority. I will say, though, that a lot of condo owners are ready to buy a home and add more space to their lives or be closer to family and friends.&nbsp;
+On a related note, acreage properties are making a strong comeback due to the exodus of people from larger cities. I’ve been getting a lot of calls from Californians wanting to move up here to get away from city living. The condo and townhome market, on the other hand, hasn’t been drastically affected. People are still buying these properties because they’re affordable, and affordability will always be a top priority. I will say, though, that a lot of condo owners are ready to buy a home and add more space to their lives or be closer to family and friends.&nbsp;
 
 So if you’re curious about your home’s worth or want to know what renovations you can make to sell it for top dollar, give me a call or send me an email. I’d love to help you.
 
