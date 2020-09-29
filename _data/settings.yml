@@ -12,7 +12,9 @@ client:
       phone: 503-804-1466
       email: anne@sellingportlandhomes.com
       about_markdown: |
-        Licensed since 2001 Anne Stewart is in the Top 1% of agents in the Northwest Region. Born and raised in Portland, Oregon Anne knows the Portland market.  When most agents quit Real Estate when the market shifted in 2008, Anne succeeded and specialized in helping homeowners sell in the toughest market Portland had seen since the early 80’s. While the market recovered Anne and her team dominated the market and created marketing strategies that surpass her competition and assist homeowners in netting the highest possible amount of money for her clients.  Anne has experience and keen negotiation skills.
+        Portland Oregon has always been “home” to Anne. She grew up in West Linn and currently lives in Portland with her husband, son, dog and cat. Anne graduated from George Fox University in Business Marketing and immediately went into the corporate sales at Xerox for a year before entering the real estate industry. In 2001 Anne began her Real Estate career and has consistently been in the Top 1% of agents in the Northwest Region. She has a unique knack for adapting to any real estate market, thriving through the 2008 downturn and consistently exceeding both her personal and team goals.
+
+        In her role as owner/team leader, Anne leads and manages the team while building new client relations. But more importantly, Anne brings an energy and passion to everything she does. She enjoys developing and maintaining relationships with clients and her community and has a talent for helping others grow and achieve their goals. Leadership & marketing are Anne's strengths and that reflects in her results and relationships with others.
 
   about_header: About Stewart Real Estate Group
 
@@ -53,7 +55,7 @@ images:
   client_headshot_path: '/img/headshot.jpg'
   hero_logo_path: '/img/logo.png'
   hero_text: Portland Real Estate Blog
-  hero_background_hex: '#AE1A1E'
+  hero_background_hex: white
   hero_image_path: '/img/background.jpg'
 brand_color: '#1450a5'
 theme_color: '#ffffff'
