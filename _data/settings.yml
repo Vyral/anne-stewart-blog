@@ -1,5 +1,5 @@
 audit_header: false
-title: Quinn Stewart Real Estate Group
+title: Stewart Real Estate Group
 description: If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Quinn Stewart Real Estate Group - your professional Portland Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -13,16 +13,11 @@ client:
       email: anne@sellingportlandhomes.com
       about_markdown: |
         Licensed since 2001 Anne Stewart is in the Top 1% of agents in the Northwest Region. Born and raised in Portland, Oregon Anne knows the Portland market.  When most agents quit Real Estate when the market shifted in 2008, Anne succeeded and specialized in helping homeowners sell in the toughest market Portland had seen since the early 80’s. While the market recovered Anne and her team dominated the market and created marketing strategies that surpass her competition and assist homeowners in netting the highest possible amount of money for her clients.  Anne has experience and keen negotiation skills.
-    - name: Linda Quinn
-      license: '#780301797'
-      phone: 503-706-9187
-      email: linda@sellingportlandhomes.com
-      about_markdown: |
-        Licensed over 35+ years in Real Estate; Linda has decades of experience. It’s no wonder her clients come back year over year to refer her and get her expert advise on real estate.  Serving the Portland Metro area for over 3 decades, owner of over 30 rental properties, seasoned investor and dynamic leader, Linda is a true professional.
-  about_header: About Quinn Stewart Real Estate Group
+
+  about_header: About Stewart Real Estate Group
 
   market: Portland
-  brand: Quinn Stewart Real Estate Group
+  brand: Stewart Real Estate Group
   brokerage: brokered by exp
   address: 18861 SW Martinazzi Ave., Suite 211<br>Tualatin, OR 97062 
   url: http://www.sellingportlandhomes.com/
@@ -47,7 +42,7 @@ socials:
   yelp_url:
   podcast_url: https://itunes.apple.com/us/podcast/quinn-stewart-real-estate/id1175103117?mt=2
 podcast:
-  title: Quinn Stewart Real Estate Group Podcast
+  title: Stewart Real Estate Group Podcast
   categories: News & Politics
   image: /img/Stewart_podcast.png
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Portland Area Real Estate Market'
@@ -60,7 +55,7 @@ images:
   hero_text: Portland Real Estate Blog
   hero_background_hex: '#AE1A1E'
   hero_image_path: '/img/background.jpg'
-brand_color: '#AE1A1E'
+brand_color: '#1450a5'
 theme_color: '#ffffff'
 theme_text_color: '#353535'
 main_body_color: '#ffffff'
