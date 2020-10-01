@@ -11,14 +11,14 @@ pullquote: >-
   position.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: fzVD2XmiqsY
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s some important info to close the door on recent foreclosure fears.</em></p>
+*Here’s some important info to close the door on recent foreclosure fears.*
 
 As you may have heard, some people are predicting that the fall and winter will bear a glut of foreclosures across the country. It’s obviously been a really rough year for many Americans; people have taken severe financial hits and lost their jobs. However, **there are two reasons why this dreaded wave of foreclosures isn’t about to come crashing down anytime soon.&nbsp;**
 
