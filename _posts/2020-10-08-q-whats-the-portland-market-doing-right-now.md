@@ -18,7 +18,8 @@ youtube_code: gcKSW1cWZgc
 
 {% include youtube.html %}
 
-*Here’s everything you need to know about our real estate market.*
+<center><em>Here’s everything you need to know about our real estate market.</em></center>
+&nbsp;
 
 As we begin October, I’m excited to share the latest news and numbers with you from the Portland real estate market. As if 2020 couldn’t keep throwing us curveballs and surprises, we had no clue that the real estate market would be like this amidst a global pandemic.&nbsp;
 
