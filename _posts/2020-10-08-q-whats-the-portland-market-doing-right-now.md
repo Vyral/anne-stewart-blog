@@ -18,10 +18,11 @@ youtube_code: gcKSW1cWZgc
 
 {% include youtube.html %}
 
-<center><em>Here’s everything you need to know about our real estate market.</em></center>
+<center><em>Here&rsquo;s everything you need to know about our real estate market.</em></center>
+
 &nbsp;
 
-As we begin October, I’m excited to share the latest news and numbers with you from the Portland real estate market. As if 2020 couldn’t keep throwing us curveballs and surprises, we had no clue that the real estate market would be like this amidst a global pandemic.&nbsp;
+As we begin October, I’m excited to share the latest news and numbers with you from the Portland real estate market. As if 2020 didn't have enough curveballs and surprises, we had no clue that the real estate market would be like this amidst a global pandemic.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety, or use these timestamps to browse specific points at your leisure:**
 
@@ -39,4 +40,4 @@ As we begin October, I’m excited to share the latest news and numbers with you
 
 8:02- Wrapping things up
 
-If you have any questions for me about anything discussed in today’s video or anything else related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have questions for me about the topics discussed in today’s video or related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
