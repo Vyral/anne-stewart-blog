@@ -18,7 +18,8 @@ youtube_code:
 
 {% include youtube.html %}
 
-*The people who shouldn’t be buying or selling in our current market*
+<center><em>The people who shouldn’t be buying or selling in our current market</em></center>
+&nbsp;
 
 Even though we’re technically in a hot seller’s market and there are opportunities out there, there are certain types of buyers or sellers who should take their foot off the gas, at least for the time being. There are four specific reasons you shouldn’t be buying or selling in this market that maybe you hadn’t thought about.
 
