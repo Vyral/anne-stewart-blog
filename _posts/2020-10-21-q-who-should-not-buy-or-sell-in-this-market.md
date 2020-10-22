@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt: The people who shouldn’t be buying or selling in our current market
+excerpt: These are the people who shouldn't be buying or selling in our current market.
 enclosure:
 pullquote: 'Andross, the Final Boss'
 enclosure_type: video/mp4
@@ -18,7 +18,7 @@ youtube_code: d5-MsQ4oORc
 
 {% include youtube.html %}
 
-<center><em>The people who shouldn&rsquo;t be buying or selling in our current market</em></center>
+<center><em>These are the people who shouldn't be buying or selling in our current market.</em></center>
 
 &nbsp;
 
