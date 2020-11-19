@@ -18,7 +18,8 @@ youtube_code: okwh0viBaa0
 
 {% include youtube.html %}
 
-*The 2020 holiday season has officially begun and it’s unlike any other. *
+<center><em>The 2020 holiday season has officially begun and it’s unlike any other.</em></center>
+&nbsp;
 
 Despite all that’s going on, my team and I believe it’s important to take a minute and think about our gratitude's, even if they seem small this year. I encourage you to think of what you’re grateful for and [read this Declaration of Gratitude](https://vyralmarketing.s3.amazonaws.com/Anne+Stewart/Email+Assets/Gratitude+Declaration.pdf). We have met some truly wonderful people, and we’re proud to have helped so many reach their real estate goals over the years.
 
