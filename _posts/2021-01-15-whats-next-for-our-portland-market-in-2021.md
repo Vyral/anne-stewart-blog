@@ -7,7 +7,8 @@ tags:
   - Buyer Tips
   - Home Seller Tips
 excerpt: Here’s what to know about the past and future of our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Anne+Stewart/Videos/Anne_Stewart_WhatHappenedIn2020.mp4
 pullquote: 'We’ve moved on to a new year, but we’re not out of this market quite yet.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,10 +19,9 @@ youtube_code: KVDZXomMWv8
 
 {% include youtube.html %}
 
-<center><em>Here’s what to know about the past and future of our market.</em></center>
+<center><em>Here&rsquo;s what to know about the past and future of our market.</em></center>
 
 &nbsp;
-
 
 What happened in our Portland area real estate market in 2020? What have we seen so far in 2021?
 
