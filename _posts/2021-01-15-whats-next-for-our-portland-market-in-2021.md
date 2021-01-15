@@ -18,7 +18,10 @@ youtube_code: KVDZXomMWv8
 
 {% include youtube.html %}
 
-*Here’s what to know about the past and future of our market. *
+<center><em>Here’s what to know about the past and future of our market.</em></center>
+
+&nbsp;
+
 
 What happened in our Portland area real estate market in 2020? What have we seen so far in 2021?
 
