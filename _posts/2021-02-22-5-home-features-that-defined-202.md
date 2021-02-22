@@ -7,7 +7,8 @@ tags:
   - Buyer Tips
   - Home Seller Tips
 excerpt: Here are the top five most popular home features among 2020 buyers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Anne+Stewart/Anne_Stewart_5_Covid_Home_Features.mp4
 pullquote: >-
   It wasn’t uncommon to hear of RV dealerships completely selling out of their
   inventory
