@@ -20,7 +20,7 @@ youtube_code: KDgkUv7VjO4
 
 {% include youtube.html %}
 
-*Here are the top five most popular home features among 2020 buyers.*
+<center><em>Here are the top five most popular home features among 2020 buyers.</em></center>
 
 &nbsp;
 
