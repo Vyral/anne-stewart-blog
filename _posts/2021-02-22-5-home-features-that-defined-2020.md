@@ -11,7 +11,7 @@ enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Anne+Stewart/Anne_Stewart_5_Covid_Home_Features.mp4
 pullquote: >-
   It wasn’t uncommon to hear of RV dealerships completely selling out of their
-  inventory
+  inventory.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -29,13 +29,13 @@ The unique challenges of 2020 transformed home-buying trends, and space became k
 
 {% include pullquote.html %}
 
-**1\. Kitchens.** This gathering space has always been an integral part of a home, but why did it become even more important this year? Well, first of all, we were all using it more; with restaurants closed, cooking at home became essential. Throughout 2020, we noticed buyers being more up front with their inquiries about a home’s kitchen: ”Does it have everything I need? How spacious is it? Does it have an island?”
+**1\. Kitchens.** This gathering space has always been an integral part of a home, but why did it become even more important this year? Well, first of all, we were all using it more; with restaurants closed, cooking at home became essential. Throughout 2020, we noticed buyers being more upfront with their inquiries about a home’s kitchen: ”Does it have everything I need? How spacious is it? Does it have an island?”
 
 **2\. Home office spaces.** Given the major work-from-home shift, buyers began putting a premium on properties with extra bedrooms, nooks/reading areas, and even backyard sheds big enough to accommodate a desk and a computer—and a lot of coffee. It wasn’t just the adults who needed space for productivity, though; buyers sought out spaces that could be transformed into dedicated study zones for their kids who were enrolled in remote learning.&nbsp;
 
-**3\. RV parking.** Thanks to COVID, we’ve been witnessing an RV renaissance of sorts; for the better part of 2020, it wasn’t uncommon to hear of RV dealerships completely selling out of their inventory. People wanted to get out of the house, and with airline travel posing serious risks, “travelling local” became a huge trend.&nbsp;
+**3\. RV parking.** Thanks to COVID, we’ve been witnessing an RV renaissance of sorts; for the better part of 2020, it wasn’t uncommon to hear of RV dealerships completely selling out of their inventory. People wanted to get out of the house, and with airline travel posing serious risks, “traveling local” became a huge trend.&nbsp;
 
-**4\. Outdoor living.** I personally spent most of my time last year out in the backyard, so I get it. Putting a cover over the patio, adding a firepit, creating a haven for barbecuers, installing a pool, or simply having a quiet area for reading on a nice day—all these things helped sellers fetch top dollar in 2020.&nbsp;
+**4\. Outdoor living.** I spent most of my time last year out in the backyard, so I get it. Putting a cover over the patio, adding a fire pit, creating a haven for barbecuers, installing a pool, or simply having a quiet area for reading on a nice day—all these things helped sellers fetch top dollar in 2020.&nbsp;
 
 **5\. An “escape” room.** No, not one of those game rooms where you and your friends have to put your brains together to find a way out—I mean a place in your home where you can retreat to whenever you start to feel overwhelmed by everybody and everything around you. It could be an extra living area, a basement, a shed, an oversized garage (perhaps with a workshop) or something else entirely; as long as it allowed for some quiet, reflective time, buyers wanted it.&nbsp;
 
