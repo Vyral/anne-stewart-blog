@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Home Features That Defined 202
+title: 5 Home Features That Defined 2020
 tags:
   - Market Update
   - Real Estate
