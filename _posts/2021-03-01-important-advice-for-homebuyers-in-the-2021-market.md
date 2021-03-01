@@ -7,7 +7,8 @@ tags:
   - Buyer Tips
   - Home Seller Tips
 excerpt: Here’s a look at our competitive home-buying market and how to win in 2021.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Anne+Stewart/Anne+Stewart+BuyingIn2021.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +19,7 @@ youtube_code: pFBpm-lTe28
 
 {% include youtube.html %}
 
-<center><em>Here’s a look at our competitive home-buying market and how to win in 2021.</em></center>
+<center><em>Here&rsquo;s a look at our competitive home-buying market and how to win in 2021.</em></center>
 
 &nbsp;
 
