@@ -18,7 +18,9 @@ youtube_code: pFBpm-lTe28
 
 {% include youtube.html %}
 
-*Here’s a look at our competitive home-buying market and how to win in 2021.*
+<center><em>Here’s a look at our competitive home-buying market and how to win in 2021.</em></center>
+
+&nbsp;
 
 Today I have some really important information to share with all the homebuyers out there in the market this year. As you may know, houses are coming on the market and leaving it just as fast. There just aren't a lot of houses for sale, and I’ve never seen a market quite like this.
 
