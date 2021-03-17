@@ -20,7 +20,8 @@ youtube_code: 0WzLUIj_IkI
 ---
 {% include youtube.html %}
 
-Here are the realities of selling then buying in today’s red-hot market.
+<center><em>Here are the realities of selling then buying in today’s red-hot market.</em></center>
+&nbsp;
 
 Many folks are asking themselves, **“**How can I sell my current house and purchase my next one in this crazy real estate market of ours?” These days, we can no longer write contingent offers. About a year ago, the market was still loose enough that we could get away with submitting contingent offers, or at least writing offers while in escrow. Here in early 2021, forget about it—**don’t even consider writing an offer that’s contingent on the*****closing*** **of your home.** Our market is in overdrive right now, and that approach simply isn’t competitive enough. You’ll end up homeless by banking on it.&nbsp;
 
