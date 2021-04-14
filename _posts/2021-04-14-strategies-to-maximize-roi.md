@@ -7,7 +7,8 @@ tags:
   - Buyer Tips
   - Home Seller Tips
 excerpt: Here are our team’s top six strategies to maximize your ROI when selling.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Anne+Stewart/Videos/Anne+Stewart+Maximum+ROI.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -17,7 +18,8 @@ youtube_code: r8Yp4qs_VLs
 ---
 {% include youtube.html %}
 
-<center><em>Here are our team’s top six strategies to maximize your ROI when selling.</em></center>
+<center><em>Here are our team&rsquo;s top six strategies to maximize your ROI when selling.</em></center>
+
 &nbsp;
 
 How can we maximize your home’s value in an already hot real estate market? Today I’m sharing the tips we discuss with our clients to help them get the highest possible ROI. Homes are currently selling quickly, but is selling the quickest the most effective thing to do? If you’re considering selling in 2021, these strategies are for you.
