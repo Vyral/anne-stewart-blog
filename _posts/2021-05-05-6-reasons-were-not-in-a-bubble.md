@@ -17,7 +17,8 @@ youtube_code: txD7UrLFY3M
 ---
 {% include youtube.html %}
 
-Is the real estate market in a bubble that’s about to pop?
+<center><em><Is the real estate market in a bubble that’s about to pop?</em></center>
+
 
 Today’s topic is the question that everyone keeps asking: “Are we in a housing bubble?” I can safely say that our market is on fire right now. Sellers are having to sift through multiple offers, and many homes are selling for more than $100,000 over asking price\! I haven’t seen a market like before in my whole life—the only market resembling ours was the one we had between 2005 and 2007, but guess what happened after that market?&nbsp;
 
