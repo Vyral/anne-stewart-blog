@@ -39,7 +39,7 @@ That bubble exploded, leading us into the worst recession in our history. Housin
 
 6:32—Foreclosure activity is muted
 
-**Beyond a housing bubble, we have an even bigger problem that no one seems to be talking about:** we could potentially run out of housing. I can’t use a crystal ball to tell you exactly what the future holds, but I can say, from watching the daily activity of the market, that we simply don’t have enough supply to meet demand.&nbsp;
+**Beyond a housing bubble, we have an even bigger problem that no one seems to be talking about:**&nbsp;We could potentially run out of housing. I can’t use a crystal ball to tell you exactly what the future holds, but I can say, from watching the daily activity of the market, that we simply don’t have enough supply to meet demand.&nbsp;
 
 Unless interest rates rise and buyer power is reduced, the market will continue like this for quite some time. And with the pandemic, everything has changed. People can now work remotely, allowing them to live anywhere. Even most financial gurus are saying that now is the time to go out and buy a home.
 
