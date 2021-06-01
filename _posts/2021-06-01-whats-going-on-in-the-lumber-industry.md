@@ -17,9 +17,9 @@ youtube_code: 0qeJhCuY-88
 ---
 {% include youtube.html %}
 
-<center><em>Here’s what’s happening in the lumber industry to make prices inflate.</em></center>
+<center><em>Here&rsquo;s what&rsquo;s happening in the lumber industry to make prices inflate.</em></center>
 
-
+<center>&nbsp;</center>
 
 Why are lumber prices so high? Lumber prices have increased 377% from just a year ago, so everyone is wondering what’s going on in the industry. I have a client in the lumber industry and have spoken to many others in the industry who know what’s happening, so today I’m sharing what’s going on with lumber. The first thing to know is that lumber is a just-in-time product.
 
