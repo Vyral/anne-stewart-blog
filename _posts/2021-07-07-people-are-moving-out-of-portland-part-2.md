@@ -4,7 +4,8 @@ title: People Are Moving out of Portland, Part 2
 tags:
   - Real Estate
 excerpt: Here are the four states people move to the most when leaving Portland.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Anne+Stewart/Videos/People+Are+Moving+out+of+Portland%2C+Part+2.mp4
 pullquote: 'We’re seeing a swarm of migration both coming and going. '
 enclosure_type: video/mp4
 enclosure_time:
