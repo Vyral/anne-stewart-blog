@@ -2,12 +2,10 @@
 layout: post
 title: Why Homebot Is Such a Fantastic Tool for Homeowners
 tags:
-  - Market Update
   - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
 excerpt: Homebot is the latest and greatest tool for today’s homeowners.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Anne+Stewart/Videos/2021/Why+Homebot+Is+Such+a+Fantastic+Tool+for+Homeowners.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
