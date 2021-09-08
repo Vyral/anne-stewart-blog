@@ -33,7 +33,7 @@ I’m excited to share a free resource that’s going to help you track the valu
 
 4:35 — Wrapping up
 
-**Keep an eye out for some Homebot emails coming soon to your inbox.** They’re very user-friendly, and I hope that this tool is going to help accomplish your real estate goals. All of your info will be private and secure.
+**Keep an eye out for some Homebot emails coming soon to your inbox.**&nbsp;It's very user-friendly, and I hope that this tool is going to help accomplish your real estate goals. All of your info will be private and secure.
 
 If you have any questions for me about Homebot or anything else related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
 
