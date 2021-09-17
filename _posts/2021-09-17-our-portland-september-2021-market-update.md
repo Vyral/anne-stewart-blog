@@ -4,8 +4,9 @@ title: Our Portland September 2021 Market Update
 tags:
   - Market Update
 excerpt: Here’s how our Portland market is doing amid the new wave of COVID-19.
-enclosure:
-pullquote: Andross, the Final Boss
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Anne+Stewart/Videos/2021/Our+Portland+September+2021+Market+Update.mp4
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
