@@ -31,7 +31,7 @@ Today I’m sharing our Portland real estate market update for September 2021. W
 
 5:05—Prices will likely continue to rise
 
-5:50—Something to keep your eye on: cryptocurrency&nbsp;
+5:50—Keep your eye on cryptocurrency&nbsp;
 
 7:00—Wrapping up today’s topic
 
