@@ -31,4 +31,4 @@ A lot of properties around the U.S. have stigmas, including one of mine. I was r
 
 **No matter what, you should disclose if something stigmatizing has occurred in your home.** It’s important to a lot of cultures and religions, so it’s the right thing to do. It may make your home more difficult to sell in the short term, but there’s always someone willing to pay a good price for a quality home.&nbsp;
 
-If you have any spooky stories you want to share, or if you have any other questions, please call or email me. I am always willing to talk\!
+If you have any spooky stories you want to share, or if you have questions, please call or email me. I am always willing to talk\!
