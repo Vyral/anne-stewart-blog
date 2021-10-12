@@ -6,14 +6,14 @@ tags:
   - Home Seller Tips
 excerpt: 'Here’s how hauntings and negative stigmas affect home values. '
 enclosure: >-
-  s3://vyralmarketing/Anne Stewart/Videos/2021/Do Haunted Houses Affect The
-  Value_.mp4
+  s3://vyralmarketing/Anne Stewart/Videos/2021/EDIT Do Haunted Houses Sell For
+  Less_ 👻.mp4
 pullquote: 'If you price correctly, even a haunted home will sell. '
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/10-08-21yt-as.jpg
-youtube_code: VbqwuyjahAU
+youtube_code: xIeeYEa2I_M
 ---
 {% include youtube.html %}
 
