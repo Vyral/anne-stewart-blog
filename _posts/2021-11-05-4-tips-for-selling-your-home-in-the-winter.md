@@ -10,8 +10,8 @@ pullquote: >-
     doesn’t have to be difficult.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/ap-17012698038139.jpeg
 youtube_code: LvjLZ4GZ-fY
 ---
 {% include youtube.html %}
@@ -28,5 +28,3 @@ Are you thinking about selling your house this winter? I’m a 20-year vet in th
 {% include pullquote.html %}
 
 If you want to get a professional opinion on how to get your house ready this winter, don’t hesitate to reach out to me. I have a larger checklist that we can go through. I look forward to hearing from you.
-
-&nbsp;
