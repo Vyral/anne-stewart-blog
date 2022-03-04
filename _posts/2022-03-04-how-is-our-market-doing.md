@@ -10,7 +10,7 @@ enclosure: >-
 pullquote: If you own a home, you may want to sell sooner rather than later.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/screenshot-216.png
 youtube_code: enN1cIYZWdY
 ---
