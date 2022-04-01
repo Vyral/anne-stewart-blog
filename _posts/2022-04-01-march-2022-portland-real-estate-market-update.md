@@ -5,7 +5,8 @@ tags:
   - Market Update
   - Real Estate
 excerpt: What happened this month in real estate? Let’s take a look…
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Anne+Stewart/Videos/2022/March+2022+Portland+Real+Estate+Market+Update.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
