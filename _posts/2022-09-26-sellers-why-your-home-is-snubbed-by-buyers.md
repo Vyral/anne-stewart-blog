@@ -17,7 +17,9 @@ youtube_code: https://youtu.be/uaTVCI7vB5g
 
 {% include excerpt.html %}
 
-Now that the market has shifted, buyers have more negotiation powers. They’ve become much pickier with their selection of homes, and if yours isn’t up to par with their demands, you risk not getting top dollar, or worse still, not selling at all. However, what could be the possible reasons why a house is snubbed by buyers?**You can listen to my full explanation in the video above or skip to each topic using the timestamps provided:**
+Now that the market has shifted, buyers have more negotiation power. They’ve become much pickier with their selection of homes, and if yours isn’t up to par with their demands, you risk not getting top dollar, or worse still, not selling at all. However, what could be the possible reasons why a house is snubbed by buyers?&nbsp;
+
+**You can listen to my full explanation in the video above or skip to each topic using the timestamps provided:**
 
 0:00 — Introduction
 
