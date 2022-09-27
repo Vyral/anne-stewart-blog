@@ -22,7 +22,7 @@ Now that the market has shifted, buyers have more negotiation power. They’ve b
 
 **You can listen to my full explanation in the video above or skip to each topic using the timestamps provided:**
 
-0:00 — Introduction
+0:00 — Introduction&nbsp;
 
 0:26 — Reason No. 1: Your house is in bad condition
 
