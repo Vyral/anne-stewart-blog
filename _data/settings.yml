@@ -1,6 +1,9 @@
 audit_header: false
 title: Stewart Real Estate Group
-description: If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Stewart Real Estate Group - your professional Portland Real Estate Agents.
+description: >-
+  If you are looking to buy or sell a home, get all the information and the
+  latest updates, tips, and tricks from Stewart Real Estate Group - your
+  professional Portland Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -11,13 +14,26 @@ client:
       license: '#200012088'
       phone: 503-804-1466
       email: anne@sellingportlandhomes.com
-      about_markdown: |
-        Portland Oregon has always been “home” to Anne. She grew up in West Linn and currently lives in Portland with her husband, son, dog and cat. Anne graduated from George Fox University in Business Marketing and immediately went into the corporate sales at Xerox for a year before entering the real estate industry. In 2001 Anne began her Real Estate career and has consistently been in the Top 1% of agents in the Northwest Region. She has a unique knack for adapting to any real estate market, thriving through the 2008 downturn and consistently exceeding both her personal and team goals.
+      about_markdown: >
+        Portland Oregon has always been “home” to Anne. She grew up in West Linn
+        and currently lives in Portland with her husband, son, dog and cat. Anne
+        graduated from George Fox University in Business Marketing and
+        immediately went into the corporate sales at Xerox for a year before
+        entering the real estate industry. In 2001 Anne began her Real Estate
+        career and has consistently been in the Top 1% of agents in the
+        Northwest Region. She has a unique knack for adapting to any real estate
+        market, thriving through the 2008 downturn and consistently exceeding
+        both her personal and team goals.
 
-        In her role as owner/team leader, Anne leads and manages the team while building new client relations. But more importantly, Anne brings an energy and passion to everything she does. She enjoys developing and maintaining relationships with clients and her community and has a talent for helping others grow and achieve their goals. Leadership & marketing are Anne's strengths and that reflects in her results and relationships with others.
 
+        In her role as owner/team leader, Anne leads and manages the team while
+        building new client relations. But more importantly, Anne brings an
+        energy and passion to everything she does. She enjoys developing and
+        maintaining relationships with clients and her community and has a
+        talent for helping others grow and achieve their goals. Leadership &
+        marketing are Anne's strengths and that reflects in her results and
+        relationships with others.
   about_header: Meet Anne Stewart-Principal Broker
-
   market: Portland
   brand: Stewart Real Estate Group
   brokerage: brokered by exp
@@ -27,9 +43,17 @@ client:
   first_CTA_URL: http://www.owninpdx.com/sell/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.owninpdx.com/map/
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808228';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+emma_form: >-
+  <script
+  id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808228';</script><script
+  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 welcome_headline: Get Educated About Real Estate
-welcome_text_markdown: Our mission at Stewart Real Estate Group is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.
+welcome_text_markdown: >-
+  Our mission at Stewart Real Estate Group is to be your best resource for real
+  estate advice. Whether you are a buyer, seller, or investor, our team of
+  professionals can answer any questions you might have about real estate.
+  Subscribe to this blog to get the latest news on local market trends and
+  receive expert tips for buying or selling a home.&nbsp;
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/StewartRealEstateGroup
@@ -40,23 +64,35 @@ socials:
   instagram_url:
   pinterest_url:
   zillow_url:
-  trulia_url: 
+  trulia_url:
   yelp_url:
-  podcast_url: https://itunes.apple.com/us/podcast/quinn-stewart-real-estate/id1175103117?mt=2
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/quinn-stewart-real-estate/id1175103117?mt=2
 podcast:
   title: Stewart Real Estate Group Podcast
   categories: News & Politics
   image: /img/Stewart_podcast.png
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Portland Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Stewart Real Estate Group - your professional Portland Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the Portland
+    Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from Stewart Real Estate Group - your
+    professional Portland Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in Portland, home
+    selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author:
 images:
-  client_headshot_path: '/img/headshot.jpg'
-  hero_logo_path: '/img/logo.png'
+  client_headshot_path: /img/headshot.jpg
+  hero_logo_path: /img/logo.png
   hero_text: Portland Real Estate Blog
   hero_background_hex: '#ffffff'
-  hero_image_path: '/img/background.jpg'
+  hero_image_path: /img/background.jpg
 brand_color: '#1450a5'
 theme_color: '#ffffff'
 theme_text_color: '#353535'
