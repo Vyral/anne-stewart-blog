@@ -42,7 +42,7 @@ Now that the market has shifted, buyers have more negotiation power. They’ve b
 
 7:03 — Reason No. 8: You don’t have an experienced Realtor&nbsp;
 
-7:21 — How I can help you
+7:21 — How I can help you&nbsp;
 
 7:37 — Wrapping up
 
