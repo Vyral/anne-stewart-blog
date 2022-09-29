@@ -13,6 +13,8 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/9-13-22.jpg
 youtube_code: https://youtu.be/uaTVCI7vB5g
 ---
+&nbsp;
+
 {% include youtube.html %}
 
 {% include excerpt.html %}
