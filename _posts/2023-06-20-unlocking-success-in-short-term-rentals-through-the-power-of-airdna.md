@@ -22,7 +22,7 @@ Today, I want to delve into the topic of short-term rentals and discuss a powerf
 
 {% include pullquote.html %}
 
-hen venturing into any destination area across the country, thorough research is crucial. You need to understand the numbers and make informed decisions about where to invest your money. Many individuals flocked to Phoenix, Arizona, during the recent short-term rental boom, but the landscape has since shifted. AirDNA can provide you with all the necessary information to assess the viability of a potential investment.
+When venturing into any destination area across the country, thorough research is crucial. You need to understand the numbers and make informed decisions about where to invest your money. Many individuals flocked to Phoenix, Arizona, during the recent short-term rental boom, but the landscape has since shifted. AirDNA can provide you with all the necessary information to assess the viability of a potential investment.
 
 Some individuals seek a second-home market, intending to use the property for a few months, weeks, or weekends throughout the year while generating additional income through short-term rentals. If this aligns with your goals, I highly recommend exploring the AirDNA website. Keep in mind that there is a fee based on the zip code, but **the valuable insights it offers make it a worthwhile investment for serious investors.**
 
