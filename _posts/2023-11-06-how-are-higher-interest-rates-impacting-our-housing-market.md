@@ -22,7 +22,7 @@ By now, you probably know that interest rates are hovering around 8%. How is thi
 
 First and foremost, **higher interest rates are softening the market.** Contrary to the fears of a market crash, we're experiencing more of a gentle deceleration. In practice, this means homes are lingering on the market for extended durations, price reductions are more common, and negotiations have more wiggle room.&nbsp;
 
-One notable trend I're witnessing is buyers requesting interest rate buydowns. Essentially, sellers are offering buyers credits to lower their interest rates for the first two years of the loan. Furthermore, buyers have become pickier. They scrutinize properties with a critical eye and approach home inspections with higher standards than when interest rates were lower.
+One notable trend I'm witnessing is buyers requesting interest rate buydowns. Essentially, sellers are offering buyers credits to lower their interest rates for the first two years of the loan. Furthermore, buyers have become pickier. They scrutinize properties with a critical eye and approach home inspections with higher standards than when interest rates were lower.
 
 {% include pullquote.html %}
 
