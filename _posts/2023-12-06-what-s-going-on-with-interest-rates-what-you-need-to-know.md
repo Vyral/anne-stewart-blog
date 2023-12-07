@@ -16,7 +16,7 @@ youtube_code: 4JoBAvEXV9c
 
 {% include excerpt.html %}
 
-In recent weeks, the fluctuating interest rates have significantly impacted the real estate market, and I want to shed light on this experience to help those unfamiliar my day-to-day role.
+In recent weeks, the fluctuating interest rates have significantly impacted the real estate market, and I want to shed light on this experience to help those unfamiliar with my day-to-day role.
 
 Around early November to October, **interest rates reached 8%, and the consequences were notable.** The market seemed to hit a sudden slowdown, causing a noticeable decrease in showings and overall activity. As an active agent, I could observe fewer showings for my listings, and even earnest buyers became more cautious, demanding near perfection before committing to a purchase. This period saw a rise in inventory sitting on the market, increased days on market, and a general decrease in demand.
 
