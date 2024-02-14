@@ -34,4 +34,4 @@ Selling your home involves more than just listing it on the market. Beyond the u
 
 4:42 — Wrapping up
 
-Preparing your home for sale goes beyond staging and decluttering. Paying attention to these five areas can significantly enhance your home’s appeal, making it stand out in a competitive market. If you're ready to sell and want your home to shine, reach out for personalized advice and support. Let's make your home sale a success.
+Preparing your home for sale goes beyond staging and decluttering. Paying attention to these five areas can significantly enhance your home’s appeal, making it stand out in a competitive market. If you're ready to sell and want your home to shine, call or email for personalized advice and support. Let's make your home sale a success.
