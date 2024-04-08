@@ -16,7 +16,7 @@ youtube_code: BTBGU2eoy58
 
 As we navigate through the ever-evolving real estate landscape of 2024, selling your house requires more than just putting up a "For Sale" sign. Here are three crucial tips to ensure your home not only attracts potential buyers but also secures a sale.
 
-**1\. Prioritize repairs.** Before listing your home, take the time to address necessary repairs. This could range from basic maintenance, like cleaning gutters and re-staining decks, to assessing major aspects such as the roof's condition. Tackling these repairs early on can prevent potential buyers from walking away during the home inspection phase due to overwhelming issues. Addressing these repairs upfront demonstrates care and can make your property more appealing.
+**1\. Prioritize repairs.** Before listing your home, take the time to address any necessary repairs. This could range from basic maintenance, like cleaning gutters and re-staining decks, to assessing major aspects, such as the roof's condition. Tackling these repairs early on can prevent potential buyers from walking away during the home inspection phase due to overwhelming issues. Addressing these repairs upfront demonstrates care and can make your property more appealing.
 
 {% include pullquote.html %}
 
@@ -24,4 +24,4 @@ As we navigate through the ever-evolving real estate landscape of 2024, selling 
 
 **3\. Heed the feedback.** Feedback from buyers and their agents is invaluable. It provides insights into how your home compares to others on the market and whether its condition and pricing align with buyer expectations. While direct comments on pricing may be rare, the underlying message in feedback often relates to price or condition. If multiple viewings lead to similar feedback, it might indicate the need for a price adjustment or addressing a specific issue with the property.
 
-Selling a home in 2024 requires a nuanced approach, from ensuring the property is in top shape to finding the ideal price point and listening to market feedback. If you're considering selling your home and wondering how these factors apply to you, feel free to reach out. Our team is here to provide expert advice and support throughout the selling process, helping you navigate the market confidently and successfully.<br>
+Selling a home in 2024 requires a nuanced approach, from ensuring the property is in top shape to finding the ideal price point and listening to market feedback. If you're considering selling your home and wondering how these factors apply to you, feel free to call or email us. Our team is here to provide expert advice and support throughout the selling process, helping you navigate the market confidently and successfully.<br>
