@@ -23,13 +23,13 @@ When it’s time to make a move, how can you buy a new home before selling your 
 
 The average homeowner has a lot of equity in their current homes, but accessing that equity is challenging without selling your home first. The good thing is that you still have options, which I will be sharing with you today. Read on to learn the three best ways to leverage your equity to buy a home before you sell.
 
-**1\. Home equity line of credit (HELOC).** This is a second mortgage, allowing you to borrow against your home value. This option lets you use equity without selling, and lenders usually allow borrowing up to 85% of your equity. HELOC approvals take time, so you need to act fast to get your approval before applying for your new home's mortgage.
+**1\. Home equity line of credit (HELOC).** This is like a second mortgage, allowing you to borrow against your home value. This option lets you use equity without selling, and lenders usually allow borrowing up to 85% of your equity. HELOC approvals take time, so you need to act fast to get your approval before applying for your new home's mortgage.
 
 The good thing about this option is that you can pay back your HELOC using profits from your old home sale after you move into your new home.
 
 {% include pullquote.html %}
 
-**2\. Bridge loan.** This is a short term loan that uses your home equity as collateral. While not all lenders offer bridge loans, the ones who do let you borrow up to 80% of the combined value of your old and new properties, Compared to HELOC, bridge loans are approved faster and are a convenient option for qualified homeowners.
+**2\. Bridge loan.** This is a short-term loan that uses your home equity as collateral. While not all lenders offer bridge loans, the ones who do let you borrow up to 80% of the combined value of your old and new properties, Compared to HELOC, bridge loans are approved faster and are a convenient option for qualified homeowners.
 
 You must know that bridge loans have higher interest rates compared to other options and are usually only available to people with high credit scores and equity. On top of that, you also need to sell your old home quickly to avoid high loan costs.
 
