@@ -3,7 +3,7 @@ layout: post
 title: 3 Strategic Steps To Deal with Low Ball Offers
 excerpt: 'A few steps you can take to negotiate a great deal with lowball offers. '
 enclosure:
-pullquote: Always double-check the comps—you’ll never know what you find!
+pullquote: Always double-check the comps -you’ll never know what you find!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
