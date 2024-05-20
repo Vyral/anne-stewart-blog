@@ -24,7 +24,7 @@ Check comparable homes in your area to see whether trending prices are up, neutr
 
 {% include pullquote.html %}
 
-valuable as you thought, and your buyer isn’t moving. What now? In my opinion, it’s always worth it to counteroffer unless you suspect the buyer isn’t acting in good faith. If the buyer rejects your counteroffer immediately and insists on their lowball price, you can safely walk away knowing they were probably just fishing around for a deal from unprepared sellers.
+**2\. (Almost) Always counteroffer.** After checking the comps, you find out that your home is still as valuable as you thought, and your buyer isn’t moving. What now? In my opinion, it’s always worth it to counteroffer unless you suspect the buyer isn’t acting in good faith. If the buyer rejects your counteroffer immediately and insists on their lowball price, you can safely walk away knowing they were probably just fishing around for a deal from unprepared sellers.
 
 **3\. Compromise on other terms.** A lowball offer might mean that the buyer has limited funds and not because they think your home has less value. While many sellers see this as a dealbreaker, try to hear the buyer out. Chances are, they’ll be willing to give you great terms on other negotiating items to make up for their lower price.
 
