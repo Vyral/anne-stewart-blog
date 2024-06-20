@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Home selling Head Start: The First 2 Weeks Advantage'
+title: 'Home-Selling Head Start: The First 2 Weeks Advantage'
 excerpt: Get the most out of the first two weeks that your house is on market.
 enclosure:
 pullquote: >-
