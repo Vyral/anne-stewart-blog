@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Should I Make Repairs Before Listing My Home
-excerpt: Going over the key reasons its worth it to fix your home before selling
+title: Should I Make Repairs Before Listing My Home?
+excerpt: Going over the key reasons it’s worth it to fix your home before selling.
 enclosure:
 pullquote: >-
-  Home inspections are often nervewracking for sellers but they dont have to be
-  if you do repairs before listing
+  “Home inspections are often nerve-wracking for sellers, but they don’t have to
+  be if you do repairs before listing.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
