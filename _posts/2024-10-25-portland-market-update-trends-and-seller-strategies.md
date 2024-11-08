@@ -17,7 +17,7 @@ youtube_code: nNR4aZx_Kvo
 
 {% include excerpt.html %}
 
-Are we heading towards a market crash or a buyer's market? Let's talk about what we're seeing in the market in relation to what we've experienced this year and some of the economic factors involved.
+Are we heading towards a market crash or a buyer’s market? Let’s talk about what we’re seeing in the market in relation to what we’ve experienced this year and some of the economic factors involved.
 
 **There is no market crash in sight.** Just to clarify things, according to all the statistical data, we are not heading towards a market crash. We are far from an economic crash, and you’ll know if we’re headed for one if there is a sudden, steep drop that feels like it will never end.
 
@@ -27,17 +27,17 @@ Are we heading towards a market crash or a buyer's market? Let's talk about what
 
 {% include pullquote.html %}
 
-**Buyers are more hesitant this year.** Buyers are dealing with higher prices, mortgage costs, and unpredictable interest rates. It’s understandable to feel like we should have more rate cuts, and we certainly didn't get what they told us we would get at the beginning of the year.
+**Buyers are more hesitant this year.** Buyers are dealing with higher prices, mortgage costs, and unpredictable interest rates. It’s understandable to feel like we should have more rate cuts, and we certainly didn’t get what they told us we would get at the beginning of the year.
 
 **Impact of elections.** As we get closer to the election, there’s much uncertainty in the market. This is another reason why buyers are choosing a wait-and-see approach before entering the market. We usually see a surge in activity after elections as people adjust to the new administration. However, this run-up is a little interesting—economic factors are affecting market activity or lack thereof.
 
-While it hasn't been a terrible year, we are seeing the market cooling down. Prices are no longer reaching the top dollar amounts that we're used to seeing previously. We are also starting to see a lot more days on the market and many more price reductions.
+While it hasn’t been a terrible year, we are seeing the market cooling down. Prices are no longer reaching the top dollar amounts that we’re used to seeing previously. We are also starting to see a lot more days on the market and many more price reductions.
 
 If you are planning to enter the market between now and the end of the year, you must do so with your best foot forward. It’s important to study and understand your local market dynamics and consider answering these questions:
 
 * How long is it taking houses to sell?
 * Are people having to reduce prices considerably?
-* What's the list-to-sales ratio?
+* What’s the list-to-sales ratio?
 
 Lastly, **price your property competitively.** Many home sellers hurt themselves by pricing their houses too high in the beginning and then chasing the market down. That has been the story of the year.
 
