@@ -31,7 +31,7 @@ With that in mind, I’m sharing my top five predictions for the real estate mar
 
 **4\. Home appreciation will be modest at 1% to 4%.** In 2025, we expect a modest appreciation of around 1–4%. It’s not as high as the double-digit gains from the past, but it’s sustainable and healthy. Big price jumps are unlikely unless interest rates drop a lot, which could bring back affordability issues. For now, a steady rise in home values benefits both buyers and sellers.
 
-**5\. Affordability will remain challenging.** Affordability is still tough for buyers. High payments, expensive insurance, and the rising cost of living are making it harder for them to justify big purchases. If you're selling, keep in mind that buyers are being extra cautious
+**5\. Affordability will remain challenging.** Affordability is still tough for buyers. High payments, expensive insurance, and the rising cost of living are making it harder for them to justify big purchases. If you’re selling, keep in mind that buyers are being extra cautious
 
 So, there you have it! These are my predictions for 2025, but the question is will they all come true? Only time will tell, but these trends seem likely based on what we’re seeing now.
 
