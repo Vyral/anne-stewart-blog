@@ -21,7 +21,7 @@ Will home insurance be the next obstacle to selling your house? The rising insur
 
 Recently, a lender shared that the cheapest insurance option for a buyer was around $2,500 a year on average, which is nearly double the expected rate of $1,500 a year. In their search for insurance, one quote even reached as high as $6,500 a year.
 
-These increases in premiums can directly affect affordability and willingness to purchase a home. In other parts of the country, people honestly cannot pay their homeowners insurance or make the payments. That's disturbing because, as you might know, when you have a loan on your house, you are required to have homeowner's insurance.
+These increases in premiums can directly affect affordability and willingness to purchase a home. In other parts of the country, people honestly cannot pay their homeowners insurance or make the payments. That’s disturbing because, as you might know, when you have a loan on your house, you are required to have homeowner’s insurance.
 
 {% include pullquote.html %}
 
