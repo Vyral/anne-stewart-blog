@@ -43,4 +43,4 @@ As costs rise, there’s growing fear that potential buyers might be priced out 
 
 *This means buyers may need to adjust their budgets and expectations.* We remember the significant shifts from last year that made people concerned. So far, the market remains stable, but it’s important to stay vigilant.
 
-If you’ve experienced sharp increases in your premiums or other related challenges, we’d love to hear from you. Please reach out to us at [(503) 804-1466](tel:5038041466) or [Anne@SellingPortlandHomes.com](mailto:Anne@SellingPortlandHomes.com). Sharing your experiences will help us understand how these trends are affecting homeowners nationwide.
+If you’ve experienced sharp increases in your premiums or other related challenges, we’d love to hear from you. Please reach out to us at [**(503) 804-1466**](tel:5038041466) or [**Anne@SellingPortlandHomes.com**](mailto:Anne@SellingPortlandHomes.com). Sharing your experiences will help us understand how these trends are affecting homeowners nationwide.
