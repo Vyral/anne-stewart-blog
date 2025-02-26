@@ -37,6 +37,6 @@ Avoiding these five mistakes will help your home stand out and leave a lasting, 
 
 Check your windows, furnace, roof, front door, and baseboards. A little effort goes a long way in making your home irresistible to buyers. **If you have any questions, feel free to call or text me at** [**(503) 804-1466**](tel:5038041466)**.**
 
-{% include cta-content-box.html %}
+
 
 <br>
