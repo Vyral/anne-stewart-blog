@@ -23,7 +23,7 @@ Selling your house is a big deal. You want to make the best impression possible.
 
 **1\. Foggy or broken windows.** Picture this: you’re walking through the house and spot a window that’s foggy or has dirty spots between the panes. Buyers will think the house isn’t well-maintained. The good news is that you don’t have to replace the whole window by simply replacing the glasses. It’s affordable and will make a huge difference. If you have foggy windows, get them fixed before listing for an easy win.
 
-**2\. Furnace that looks like it’s seen better days.** When buyers see an old, dirty furnace, they’ll think, *"How much is it going to cost to replace this?"* It doesn’t have to be that way. Get your furnace serviced. It’s cheap, which is usually under $150 and it will look brand new. The technician will leave a record showing it’s been serviced. Buyers won’t question the condition of your heating system.
+**2\. Furnace that looks like it’s seen better days.** When buyers see an old, dirty furnace, they’ll think, *“How much is it going to cost to replace this?”* It doesn’t have to be that way. Get your furnace serviced. It’s cheap, which is usually under $150 and it will look brand new. The technician will leave a record showing it’s been serviced. Buyers won’t question the condition of your heating system.
 
 **3\. A roof that looks neglected.** A roof full of moss, clogged gutters, or leaves everywhere? Buyers will think your roof is about to fall apart, even if it still has plenty of life left. Clean the roof, clear the gutters, and treat any moss. A little TLC can make your roof look great. It doesn’t take much to make a big difference.
 
@@ -36,7 +36,5 @@ Selling your house is a big deal. You want to make the best impression possible.
 Avoiding these five mistakes will help your home stand out and leave a lasting, positive impression on buyers. No one wants to be turned off by a few simple fixes they could have easily avoided. A clean, well-maintained house sells faster.
 
 Check your windows, furnace, roof, front door, and baseboards. A little effort goes a long way in making your home irresistible to buyers. **If you have any questions, feel free to call or text me at** [**(503) 804-1466**](tel:5038041466)**.**
-
-
 
 <br>
