@@ -28,12 +28,12 @@ Interestingly, while inventory is rising, fewer buyers are qualifying for mortga
 
 **What do home sellers need to do to compete in today’s market?** Sellers need to realize that this is a competitive market. It’s like we’re in a price war and a beauty contest at the same time. Here are some tips to follow:
 
-***• Stage and price right.*** Make your home look appealing and set a competitive price. Think of your price as bait to draw in buyers. They'll simply scroll past your listing if your home doesn't catch their eye. Staging your home, making sure it smells inviting and pricing it reasonably will help attract interested buyers.
+***• Stage and price right.*** Make your home look appealing and set a competitive price. Think of your price as bait to draw in buyers. They’ll simply scroll past your listing if your home doesn’t catch their eye. Staging your home, making sure it smells inviting and pricing it reasonably will help attract interested buyers.
 
-**•** ***Avoid frequent price drops.*** ** ** Many homes don’t sell because sellers keep lowering their prices. Successful homes are well-presented, smell good, and are priced fairly from the start.
+**•** ***Avoid frequent price drops.*** \*\* \*\* Many homes don’t sell because sellers keep lowering their prices. Successful homes are well-presented, smell good, and are priced fairly from the start.
 
-**•** ***Consider the location.*** ** ** If your home has drawbacks, like being on a busy road or near power lines, it can hurt your home sale. Buyers want a complete package, so any location issues should be factored into your pricing.
+**•** ***Consider the location.*** \*\* \*\* If your home has drawbacks, like being on a busy road or near power lines, it can hurt your home sale. Buyers want a complete package, so any location issues should be factored into your pricing.
 
 **What does this mean for us?** Higher inventory levels don’t mean the end for sellers, but it does indicate that many homes are not being absorbed by the market. Buyers are selective, often passing on homes that don’t meet their criteria. Many buyers are active, vetted, and ready to purchase but are taking their time to find the right fit.
 
-If you’re thinking about selling and want more personalized advice on how to prepare your home to attract serious buyers, don’t hesitate to contact us at [**(503) 804-1466**](tel:5038041466) ** ** or [**Anne@SellingPortlandHomes.com**](mailto:Anne@SellingPortlandHomes.com)**.** We can help you prepare your home to shine and ensure you’re positioned to capture the right buyer.
+If you’re thinking about selling and want more personalized advice on how to prepare your home to attract serious buyers, don’t hesitate to contact us at [**(503) 804-1466**](tel:5038041466) \*\* \*\* or [**Anne@SellingPortlandHomes.com**](mailto:Anne@SellingPortlandHomes.com)**.** We can help you prepare your home to shine and ensure you’re positioned to capture the right buyer.
