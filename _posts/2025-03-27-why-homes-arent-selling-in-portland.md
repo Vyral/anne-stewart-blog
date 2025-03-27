@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Homes Arent Selling in Portland
+title: Why Homes Aren’t Selling in Portland—and How To Sell Yours Fast
 tags:
 excerpt: >-
   Portland’s months of inventory is the longest it’s been since 2014, making
