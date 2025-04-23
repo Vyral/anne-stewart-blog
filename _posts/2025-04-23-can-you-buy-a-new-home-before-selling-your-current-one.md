@@ -15,7 +15,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/stewart-at.png
 youtube_code:
 ---
-&nbsp;
+![](/uploads/stewart-at.png)&nbsp;
 
 {% include excerpt.html %}
 
